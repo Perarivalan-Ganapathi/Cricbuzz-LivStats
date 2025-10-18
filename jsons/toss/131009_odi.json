@@ -1,0 +1,125 @@
+{
+  "matchid": 131009,
+  "seriesid": 10636,
+  "seriesname": "India Under 19 tour of Australia, 2025",
+  "matchdesc": "3rd Youth ODI",
+  "matchformat": "ODI",
+  "startdate": 1758859200000,
+  "enddate": 1758880947584,
+  "state": "Complete",
+  "status": "India U19 opt to bat",
+  "team1": {
+    "teamid": 129,
+    "teamname": "Australia U19",
+    "teamsname": "AUSU19",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 54,
+    "teamname": "India U19",
+    "teamsname": "INDU19",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 7987,
+    "name": "Riki Wessels",
+    "country": "ENG"
+  },
+  "umpire2": {
+    "id": 12210,
+    "name": "Stephen Dionysius ",
+    "country": "AUS"
+  },
+  "umpire3": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "referee": {
+    "id": 12186,
+    "name": "Kent Hannam",
+    "country": "AUS"
+  },
+  "venueinfo": {
+    "id": 732,
+    "ground": "Ian Healy Oval",
+    "city": "Brisbane",
+    "country": "Australia",
+    "timezone": "+10:00",
+    "established": 0,
+    "capacity": "",
+    "knownas": "",
+    "ends": "",
+    "hometeam": "Northern Suburbs (Brisbane)",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts AUSU19 vs INDU19 3rd Youth ODI,India Under 19 tour of Australia, 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/131009/ausu19-vs-indu19-3rd-youth-odi-india-under-19-tour-of-australia-2025"
+  },
+  "istournament": false,
+  "tossstatus": "India U19 opt to bat",
+  "seriesstartdt": 1758326400000,
+  "seriesenddt": 1760140800000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [
+    {
+      "country": "IN",
+      "broadcaster": [
+        {
+          "broadcasttype": "Streaming",
+          "value": "JioHotstar"
+        },
+        {
+          "broadcasttype": "TV",
+          "value": "Star Sports Network"
+        }
+      ]
+    }
+  ],
+  "daynight": false,
+  "matchtype": "domestic",
+  "seriestype": "",
+  "shortstatus": "INDU19 won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 763049,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

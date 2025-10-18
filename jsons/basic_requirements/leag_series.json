@@ -1,0 +1,70 @@
+{
+  "seriesMapProto": [
+    {
+      "date": "OCTOBER 2025",
+      "series": [
+        {
+          "id": 11032,
+          "name": "CSA T20 Challenge 2025",
+          "startDt": "1761696000000",
+          "endDt": "1764460800000"
+        }
+      ]
+    },
+    {
+      "date": "DECEMBER 2025",
+      "series": [
+        {
+          "id": 10884,
+          "name": "International League T20, 2025-26",
+          "startDt": "1764633600000",
+          "endDt": "1767484800000"
+        },
+        {
+          "id": 10289,
+          "name": "Big Bash League 2025-26",
+          "startDt": "1765670400000",
+          "endDt": "1769299200000"
+        },
+        {
+          "id": 10394,
+          "name": "SA20, 2025-26",
+          "startDt": "1766707200000",
+          "endDt": "1769299200000"
+        },
+        {
+          "id": 10763,
+          "name": "Super Smash 2025-26",
+          "startDt": "1766707200000",
+          "endDt": "1769817600000"
+        }
+      ]
+    },
+    {
+      "date": "MARCH 2026",
+      "series": [
+        {
+          "id": 9241,
+          "name": "Indian Premier League 2026",
+          "startDt": "1773532800000",
+          "endDt": "1780185600000"
+        }
+      ]
+    },
+    {
+      "date": "MARCH 2027",
+      "series": [
+        {
+          "id": 9249,
+          "name": "Indian Premier League 2027",
+          "startDt": "1804982400000",
+          "endDt": "1811635200000"
+        }
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

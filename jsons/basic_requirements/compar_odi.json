@@ -1,0 +1,283 @@
+{
+  "filter": {
+    "matchtype": [
+      {
+        "matchTypeId": "1",
+        "matchTypeDesc": "test"
+      },
+      {
+        "matchTypeId": "2",
+        "matchTypeDesc": "odi"
+      },
+      {
+        "matchTypeId": "3",
+        "matchTypeDesc": "t20"
+      }
+    ],
+    "team": [
+      {
+        "id": "96",
+        "teamShortName": "AFG"
+      },
+      {
+        "id": "13",
+        "teamShortName": "NZ"
+      },
+      {
+        "id": "12",
+        "teamShortName": "ZIM"
+      },
+      {
+        "id": "11",
+        "teamShortName": "RSA"
+      },
+      {
+        "id": "10",
+        "teamShortName": "WI"
+      },
+      {
+        "id": "9",
+        "teamShortName": "ENG"
+      },
+      {
+        "id": "6",
+        "teamShortName": "BAN"
+      },
+      {
+        "id": "5",
+        "teamShortName": "SL"
+      },
+      {
+        "id": "4",
+        "teamShortName": "AUS"
+      },
+      {
+        "id": "3",
+        "teamShortName": "PAK"
+      },
+      {
+        "id": "27",
+        "teamShortName": "IRE"
+      },
+      {
+        "id": "2",
+        "teamShortName": "IND"
+      }
+    ],
+    "selectedMatchType": "odi",
+    "selectedTeam": "IND"
+  },
+  "headers": [
+    "Batter",
+    "M",
+    "I",
+    "R",
+    "Avg"
+  ],
+  "values": [
+    {
+      "values": [
+        "25",
+        "Tendulkar",
+        "463",
+        "452",
+        "18426",
+        "44.83"
+      ]
+    },
+    {
+      "values": [
+        "1413",
+        "Kohli",
+        "302",
+        "290",
+        "14181",
+        "57.88"
+      ]
+    },
+    {
+      "values": [
+        "29",
+        "S Ganguly",
+        "308",
+        "297",
+        "11221",
+        "40.95"
+      ]
+    },
+    {
+      "values": [
+        "576",
+        "Rohit",
+        "273",
+        "265",
+        "11168",
+        "48.77"
+      ]
+    },
+    {
+      "values": [
+        "27",
+        "Dravid",
+        "340",
+        "314",
+        "10768",
+        "39.16"
+      ]
+    },
+    {
+      "values": [
+        "265",
+        "Dhoni",
+        "347",
+        "294",
+        "10599",
+        "50.23"
+      ]
+    },
+    {
+      "values": [
+        "3864",
+        "M Azharuddin",
+        "334",
+        "308",
+        "9378",
+        "36.92"
+      ]
+    },
+    {
+      "values": [
+        "69",
+        "Yuvraj",
+        "301",
+        "275",
+        "8609",
+        "36.48"
+      ]
+    },
+    {
+      "values": [
+        "26",
+        "Sehwag",
+        "241",
+        "235",
+        "7995",
+        "35.38"
+      ]
+    },
+    {
+      "values": [
+        "1446",
+        "Dhawan",
+        "167",
+        "164",
+        "6793",
+        "44.11"
+      ]
+    },
+    {
+      "values": [
+        "413",
+        "Raina",
+        "226",
+        "194",
+        "5615",
+        "35.31"
+      ]
+    },
+    {
+      "values": [
+        "3898",
+        "A Jadeja",
+        "196",
+        "179",
+        "5359",
+        "37.48"
+      ]
+    },
+    {
+      "values": [
+        "308",
+        "Gambhir",
+        "147",
+        "143",
+        "5238",
+        "39.68"
+      ]
+    },
+    {
+      "values": [
+        "3874",
+        "N Sidhu",
+        "136",
+        "127",
+        "4413",
+        "37.08"
+      ]
+    },
+    {
+      "values": [
+        "3850",
+        "K Srikkanth",
+        "146",
+        "145",
+        "4091",
+        "29.01"
+      ]
+    },
+    {
+      "values": [
+        "3838",
+        "K Dev",
+        "225",
+        "198",
+        "3783",
+        "23.79"
+      ]
+    },
+    {
+      "values": [
+        "3832",
+        "D Vengsarkar",
+        "129",
+        "120",
+        "3508",
+        "34.73"
+      ]
+    },
+    {
+      "values": [
+        "3849",
+        "R Shastri",
+        "150",
+        "128",
+        "3108",
+        "29.05"
+      ]
+    },
+    {
+      "values": [
+        "3817",
+        "S Gavaskar",
+        "108",
+        "102",
+        "3092",
+        "35.14"
+      ]
+    },
+    {
+      "values": [
+        "8733",
+        "Rahul",
+        "85",
+        "79",
+        "3043",
+        "49.08"
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Live cricket scores, schedule, news, archive, series | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com"
+  }
+}

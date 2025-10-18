@@ -1,0 +1,111 @@
+{
+  "matchid": 135035,
+  "seriesid": 10961,
+  "seriesname": "Womens T20I Quadrangular Series in China 2025",
+  "matchdesc": "Final",
+  "matchformat": "T20",
+  "startdate": 1758780000000,
+  "enddate": 1758803525049,
+  "state": "Complete",
+  "status": "Hong Kong Women opt to bat",
+  "team1": {
+    "teamid": 502,
+    "teamname": "Hong Kong Women",
+    "teamsname": "HKW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 1517,
+    "teamname": "Myanmar Women",
+    "teamsname": "MMRW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "umpire2": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "umpire3": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "referee": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "venueinfo": {
+    "id": 1643,
+    "ground": "Zhejiang University of Technology Cricket Field",
+    "city": "Hangzhou",
+    "country": "China",
+    "timezone": "+08:00",
+    "established": 0,
+    "capacity": "",
+    "knownas": "",
+    "ends": "",
+    "hometeam": "",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts HKW vs MMRW Final,Womens T20I Quadrangular Series in China 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/135035/hkw-vs-mmrw-final-womens-t20i-quadrangular-series-in-china-2025"
+  },
+  "istournament": true,
+  "tossstatus": "Hong Kong Women opt to bat",
+  "seriesstartdt": 1758240000000,
+  "seriesenddt": 1758844800000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "HKW won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 379130,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

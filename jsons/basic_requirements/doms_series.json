@@ -1,0 +1,163 @@
+{
+  "seriesMapProto": [
+    {
+      "date": "SEPTEMBER 2024",
+      "series": [
+        {
+          "id": 8993,
+          "name": "ICC CWC Challenge League A, 2024-26",
+          "startDt": "1727222400000",
+          "endDt": "1769644800000"
+        }
+      ]
+    },
+    {
+      "date": "NOVEMBER 2024",
+      "series": [
+        {
+          "id": 9001,
+          "name": "ICC CWC Challenge League B, 2024-26",
+          "startDt": "1730851200000",
+          "endDt": "1769731200000"
+        }
+      ]
+    },
+    {
+      "date": "APRIL 2025",
+      "series": [
+        {
+          "id": 9360,
+          "name": "County Championship Division One 2025",
+          "startDt": "1743724800000",
+          "endDt": "1758931200000"
+        },
+        {
+          "id": 9369,
+          "name": "County Championship Division Two 2025",
+          "startDt": "1743724800000",
+          "endDt": "1758931200000"
+        }
+      ]
+    },
+    {
+      "date": "SEPTEMBER 2025",
+      "series": [
+        {
+          "id": 9935,
+          "name": "Australia A tour of India, 2025",
+          "startDt": "1757980800000",
+          "endDt": "1759622400000"
+        },
+        {
+          "id": 10829,
+          "name": "Australia Domestic One-Day Cup 2025-26",
+          "startDt": "1757980800000",
+          "endDt": "1772236800000"
+        },
+        {
+          "id": 10636,
+          "name": "India Under 19 tour of Australia, 2025",
+          "startDt": "1758412800000",
+          "endDt": "1760054400000"
+        },
+        {
+          "id": 10878,
+          "name": "CSA Four-Day Series Division One 2025-26",
+          "startDt": "1758758400000",
+          "endDt": "1771718400000"
+        },
+        {
+          "id": 10911,
+          "name": "CSA Four-Day Series Division Two 2025-26",
+          "startDt": "1758758400000",
+          "endDt": "1770681600000"
+        },
+        {
+          "id": 10300,
+          "name": "Irani Cup 2025",
+          "startDt": "1759276800000",
+          "endDt": "1759622400000"
+        }
+      ]
+    },
+    {
+      "date": "OCTOBER 2025",
+      "series": [
+        {
+          "id": 10823,
+          "name": "Sheffield Shield 2025-26",
+          "startDt": "1759536000000",
+          "endDt": "1774742400000"
+        },
+        {
+          "id": 10317,
+          "name": "Ranji Trophy Elite 2025-26",
+          "startDt": "1760486400000",
+          "endDt": "1772236800000"
+        },
+        {
+          "id": 10333,
+          "name": "Ranji Trophy Plate 2025-26",
+          "startDt": "1760486400000",
+          "endDt": "1769385600000"
+        },
+        {
+          "id": 10724,
+          "name": "The Ford Trophy 2025-26",
+          "startDt": "1761350400000",
+          "endDt": "1771718400000"
+        },
+        {
+          "id": 9938,
+          "name": "South Africa A tour of India, 2025",
+          "startDt": "1761782400000",
+          "endDt": "1763510400000"
+        }
+      ]
+    },
+    {
+      "date": "NOVEMBER 2025",
+      "series": [
+        {
+          "id": 10730,
+          "name": "Plunket Shield 2025-26",
+          "startDt": "1763424000000",
+          "endDt": "1774828800000"
+        },
+        {
+          "id": 10493,
+          "name": "Syed Mushtaq Ali Trophy Elite 2025",
+          "startDt": "1764115200000",
+          "endDt": "1766016000000"
+        },
+        {
+          "id": 10487,
+          "name": "Syed Mushtaq Ali Trophy Plate 2025",
+          "startDt": "1764115200000",
+          "endDt": "1764979200000"
+        }
+      ]
+    },
+    {
+      "date": "DECEMBER 2025",
+      "series": [
+        {
+          "id": 10366,
+          "name": "Vijay Hazare Trophy Elite 2025-26",
+          "startDt": "1766534400000",
+          "endDt": "1768694400000"
+        },
+        {
+          "id": 10377,
+          "name": "Vijay Hazare Trophy Plate 2025-26",
+          "startDt": "1766534400000",
+          "endDt": "1767657600000"
+        }
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

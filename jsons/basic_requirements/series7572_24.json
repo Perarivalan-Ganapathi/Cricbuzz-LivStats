@@ -1,0 +1,5285 @@
+{
+  "matchDetails": [
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 15 Feb 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89241,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "1st Match",
+              "matchFormat": "ODI",
+              "startDate": "1707967800000",
+              "endDate": "1707996600000",
+              "state": "Complete",
+              "status": "Namibia won by 4 wkts",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 458,
+                "ground": "Tribhuvan University International Cricket Ground",
+                "city": "Kirtipur",
+                "timezone": "+05:45"
+              },
+              "currBatTeamId": 161,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 132,
+                  "wickets": 10,
+                  "overs": 41.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 134,
+                  "wickets": 6,
+                  "overs": 33.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "layout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 17 Feb 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89248,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "2nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1708141500000",
+              "endDate": "1708170300000",
+              "state": "Complete",
+              "status": "Nepal won by 9 wkts",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "venueInfo": {
+                "id": 458,
+                "ground": "Tribhuvan University International Cricket Ground",
+                "city": "Kirtipur",
+                "timezone": "+05:45"
+              },
+              "currBatTeamId": 72,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 137,
+                  "wickets": 10,
+                  "overs": 39
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 141,
+                  "wickets": 1,
+                  "overs": 15.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 19 Feb 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89252,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "3rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1708314300000",
+              "endDate": "1708343100000",
+              "state": "Complete",
+              "status": "Netherlands won by 7 wkts",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 458,
+                "ground": "Tribhuvan University International Cricket Ground",
+                "city": "Kirtipur",
+                "timezone": "+05:45"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 123,
+                  "wickets": 10,
+                  "overs": 35.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 124,
+                  "wickets": 3,
+                  "overs": 27.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 21 Feb 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89259,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "4th Match",
+              "matchFormat": "ODI",
+              "startDate": "1708487100000",
+              "endDate": "1708515900000",
+              "state": "Complete",
+              "status": "Namibia won by 2 wkts",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 458,
+                "ground": "Tribhuvan University International Cricket Ground",
+                "city": "Kirtipur",
+                "timezone": "+05:45"
+              },
+              "currBatTeamId": 161,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 168,
+                  "wickets": 10,
+                  "overs": 37.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 172,
+                  "wickets": 8,
+                  "overs": 40
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_2",
+        "layout": "native_large",
+        "position": 4
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 23 Feb 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89262,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "5th Match",
+              "matchFormat": "ODI",
+              "startDate": "1708659900000",
+              "endDate": "1708688700000",
+              "state": "Complete",
+              "status": "Namibia won by 24 runs",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 458,
+                "ground": "Tribhuvan University International Cricket Ground",
+                "city": "Kirtipur",
+                "timezone": "+05:45"
+              },
+              "currBatTeamId": 161,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 203,
+                  "wickets": 10,
+                  "overs": 41.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 179,
+                  "wickets": 10,
+                  "overs": 43.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 25 Feb 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89269,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "6th Match",
+              "matchFormat": "ODI",
+              "startDate": "1708832700000",
+              "endDate": "1708861500000",
+              "state": "Complete",
+              "status": "Netherlands won by 8 wkts",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 458,
+                "ground": "Tribhuvan University International Cricket Ground",
+                "city": "Kirtipur",
+                "timezone": "+05:45"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 172,
+                  "wickets": 10,
+                  "overs": 49.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 173,
+                  "wickets": 2,
+                  "overs": 37.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 28 Feb 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89273,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "7th Match",
+              "matchFormat": "ODI",
+              "startDate": "1709100000000",
+              "endDate": "1709128800000",
+              "state": "Complete",
+              "status": "Canada won by 3 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 153,
+                "ground": "Dubai International Cricket Stadium",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 26,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 194,
+                  "wickets": 10,
+                  "overs": 47.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 198,
+                  "wickets": 7,
+                  "overs": 47.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 01 Mar 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89276,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "8th Match",
+              "matchFormat": "ODI",
+              "startDate": "1709272800000",
+              "endDate": "1709301600000",
+              "state": "Complete",
+              "status": "Canada won by 7 wkts",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 153,
+                "ground": "Dubai International Cricket Stadium",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 26,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 215,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 220,
+                  "wickets": 3,
+                  "overs": 40.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 03 Mar 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89280,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "9th Match",
+              "matchFormat": "ODI",
+              "startDate": "1709445600000",
+              "endDate": "1709474400000",
+              "state": "Complete",
+              "status": "Scotland won by 8 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 153,
+                "ground": "Dubai International Cricket Stadium",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 132,
+                  "wickets": 10,
+                  "overs": 45
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 137,
+                  "wickets": 2,
+                  "overs": 23.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 05 Mar 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89287,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "10th Match",
+              "matchFormat": "ODI",
+              "startDate": "1709618400000",
+              "endDate": "1709647200000",
+              "state": "Complete",
+              "status": "Canada won by 8 runs  (DLS method)",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "venueInfo": {
+                "id": 153,
+                "ground": "Dubai International Cricket Stadium",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 26,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 241,
+                  "wickets": 6,
+                  "overs": 49.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 228,
+                  "wickets": 8,
+                  "overs": 46
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 07 Mar 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89290,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "11th Match",
+              "matchFormat": "ODI",
+              "startDate": "1709791200000",
+              "endDate": "1709820000000",
+              "state": "Complete",
+              "status": "Canada won by 5 wkts",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 153,
+                "ground": "Dubai International Cricket Stadium",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 26,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 197,
+                  "wickets": 10,
+                  "overs": 47.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 200,
+                  "wickets": 5,
+                  "overs": 45.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 09 Mar 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 89294,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "12th Match",
+              "matchFormat": "ODI",
+              "startDate": "1709964000000",
+              "endDate": "1709992800000",
+              "state": "Abandon",
+              "status": "Match Postponed\n",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 153,
+                "ground": "Dubai International Cricket Stadium",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 16 Jul 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 94278,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "13th Match",
+              "matchFormat": "ODI",
+              "startDate": "1721124000000",
+              "endDate": "1721152800000",
+              "state": "Complete",
+              "status": "No result",
+              "team1": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 123,
+                  "wickets": 10,
+                  "overs": 38
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 99,
+                  "wickets": 2,
+                  "overs": 12.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 18 Jul 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 94287,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "14th Match",
+              "matchFormat": "ODI",
+              "startDate": "1721296800000",
+              "endDate": "1721325600000",
+              "state": "Complete",
+              "status": "Namibia won by 6 wkts",
+              "team1": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 161,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 233,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 234,
+                  "wickets": 4,
+                  "overs": 47.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 20 Jul 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 94296,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "15th Match",
+              "matchFormat": "ODI",
+              "startDate": "1721469600000",
+              "endDate": "1721498400000",
+              "state": "Complete",
+              "status": "Scotland won by 47 runs (DLS method)",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 290,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 235,
+                  "wickets": 9,
+                  "overs": 44
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 22 Jul 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 94305,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "16th Match",
+              "matchFormat": "ODI",
+              "startDate": "1721642400000",
+              "endDate": "1721671200000",
+              "state": "Complete",
+              "status": "Scotland won by 8 wkts",
+              "team1": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 91,
+                  "wickets": 10,
+                  "overs": 21.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 95,
+                  "wickets": 2,
+                  "overs": 17.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 24 Jul 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 94314,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "17th Match",
+              "matchFormat": "ODI",
+              "startDate": "1721815200000",
+              "endDate": "1721844000000",
+              "state": "Complete",
+              "status": "Oman won by 4 wkts",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 196,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 197,
+                  "wickets": 6,
+                  "overs": 49.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 26 Jul 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 94318,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "18th Match",
+              "matchFormat": "ODI",
+              "startDate": "1721988000000",
+              "endDate": "1722016800000",
+              "state": "Complete",
+              "status": "Scotland won by 138 runs",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 301,
+                  "wickets": 6,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 163,
+                  "wickets": 10,
+                  "overs": 40.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 11 Aug 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 103287,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "19th Match",
+              "matchFormat": "ODI",
+              "startDate": "1723366800000",
+              "endDate": "1723395600000",
+              "state": "Complete",
+              "status": "Netherlands won by 5 wkts",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 1437791,
+                "ground": "Sportpark Duivesteijn",
+                "city": "Voorburg",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 194,
+                  "wickets": 10,
+                  "overs": 48.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 195,
+                  "wickets": 5,
+                  "overs": 45.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 13 Aug 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 103294,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "20th Match",
+              "matchFormat": "ODI",
+              "startDate": "1723539600000",
+              "endDate": "1723568400000",
+              "state": "Complete",
+              "status": "United States won by 14 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 1437791,
+                "ground": "Sportpark Duivesteijn",
+                "city": "Voorburg",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 304,
+                  "wickets": 4,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 290,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 15 Aug 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 103296,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "21st Match",
+              "matchFormat": "ODI",
+              "startDate": "1723712400000",
+              "endDate": "1723741200000",
+              "state": "Complete",
+              "status": "Netherlands won by 19 runs",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 1437791,
+                "ground": "Sportpark Duivesteijn",
+                "city": "Voorburg",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 237,
+                  "wickets": 7,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 218,
+                  "wickets": 10,
+                  "overs": 49.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 17 Aug 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 103305,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "22nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1723885200000",
+              "endDate": "1723914000000",
+              "state": "Complete",
+              "status": "Netherlands won by 63 runs",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 1437791,
+                "ground": "Sportpark Duivesteijn",
+                "city": "Voorburg",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 220,
+                  "wickets": 10,
+                  "overs": 47.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 157,
+                  "wickets": 10,
+                  "overs": 35.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 19 Aug 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 103314,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "23rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1724058000000",
+              "endDate": "1724086800000",
+              "state": "Complete",
+              "status": "United States won by 50 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 1437791,
+                "ground": "Sportpark Duivesteijn",
+                "city": "Voorburg",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 275,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 225,
+                  "wickets": 10,
+                  "overs": 47
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 21 Aug 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 103323,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "24th Match",
+              "matchFormat": "ODI",
+              "startDate": "1724230800000",
+              "endDate": "1724259600000",
+              "state": "Complete",
+              "status": "Netherlands won by 27 runs",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 1437791,
+                "ground": "Sportpark Duivesteijn",
+                "city": "Voorburg",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 206,
+                  "wickets": 10,
+                  "overs": 49.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 179,
+                  "wickets": 10,
+                  "overs": 45.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 16 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 106355,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "25th Match",
+              "matchFormat": "ODI",
+              "startDate": "1726471800000",
+              "endDate": "1726500600000",
+              "state": "Complete",
+              "status": "United States won by 6 wkts",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 363,
+                "ground": "Wanderers Cricket Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 199,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 200,
+                  "wickets": 4,
+                  "overs": 41.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 106953,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "26th Match",
+              "matchFormat": "ODI",
+              "startDate": "1726498800000",
+              "endDate": "1726527600000",
+              "state": "Complete",
+              "status": "Canada won by 103 runs",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 26,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 253,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 150,
+                  "wickets": 10,
+                  "overs": 40.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 18 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 106961,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "27th Match",
+              "matchFormat": "ODI",
+              "startDate": "1726644600000",
+              "endDate": "1726673400000",
+              "state": "Complete",
+              "status": "United States won by 10 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 524,
+                "ground": "United Cricket Club Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 106,
+                  "wickets": 10,
+                  "overs": 31.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 107,
+                  "overs": 15.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 106964,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "28th Match",
+              "matchFormat": "ODI",
+              "startDate": "1726671600000",
+              "endDate": "1726700400000",
+              "state": "Complete",
+              "status": "Oman won by 1 wkt",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 220,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 223,
+                  "wickets": 9,
+                  "overs": 49.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 20 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 106969,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "29th Match",
+              "matchFormat": "ODI",
+              "startDate": "1726817400000",
+              "endDate": "1726846200000",
+              "state": "Complete",
+              "status": "United Arab Emirates won by 1 wkt",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "venueInfo": {
+                "id": 524,
+                "ground": "United Cricket Club Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 7,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 313,
+                  "wickets": 10,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 316,
+                  "wickets": 9,
+                  "overs": 49.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 106972,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "30th Match",
+              "matchFormat": "ODI",
+              "startDate": "1726844400000",
+              "endDate": "1726873200000",
+              "state": "Complete",
+              "status": "Canada won by 59 runs",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 26,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 276,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 217,
+                  "wickets": 10,
+                  "overs": 46
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 22 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 106977,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "31st Match",
+              "matchFormat": "ODI",
+              "startDate": "1726990200000",
+              "endDate": "1727019000000",
+              "state": "Complete",
+              "status": "United States won by 7 wkts",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 363,
+                "ground": "Wanderers Cricket Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 286,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 287,
+                  "wickets": 3,
+                  "overs": 45
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 106985,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "32nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1727017200000",
+              "endDate": "1727046000000",
+              "state": "Complete",
+              "status": "Canada won by 5 wkts",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 26,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 181,
+                  "wickets": 10,
+                  "overs": 46.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 186,
+                  "wickets": 5,
+                  "overs": 42
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 24 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 106988,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "33rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1727163000000",
+              "endDate": "1727191800000",
+              "state": "Complete",
+              "status": "United States won by 136 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "venueInfo": {
+                "id": 524,
+                "ground": "United Cricket Club Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 339,
+                  "wickets": 4,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 203,
+                  "wickets": 10,
+                  "overs": 36.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 106996,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "34th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727190000000",
+              "endDate": "1727218800000",
+              "state": "Abandon",
+              "status": "Match abandoned due to rain (no toss)",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 26 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 107004,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "35th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727335800000",
+              "endDate": "1727364600000",
+              "state": "Complete",
+              "status": "Namibia won by 8 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 363,
+                "ground": "Wanderers Cricket Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 161,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 190,
+                  "wickets": 10,
+                  "overs": 43.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 194,
+                  "wickets": 2,
+                  "overs": 28.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 107009,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "36th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727362800000",
+              "endDate": "1727391600000",
+              "state": "Complete",
+              "status": "Canada won by 5 wkts",
+              "team1": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 26,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 198,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 199,
+                  "wickets": 5,
+                  "overs": 45.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 25 Oct 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 107017,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "37th Match",
+              "matchFormat": "ODI",
+              "startDate": "1729870200000",
+              "endDate": "1729899000000",
+              "state": "Complete",
+              "status": "Scotland won by 10 wkts",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 915,
+                "ground": "Prairie View Cricket Complex",
+                "city": "Houston",
+                "timezone": "-05:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 144,
+                  "wickets": 10,
+                  "overs": 38.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 145,
+                  "overs": 24.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 27 Oct 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 107025,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "38th Match",
+              "matchFormat": "ODI",
+              "startDate": "1730043000000",
+              "endDate": "1730071800000",
+              "state": "Complete",
+              "status": "United States of America won by 3 wkts",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 915,
+                "ground": "Prairie View Cricket Complex",
+                "city": "Houston",
+                "timezone": "-05:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 286,
+                  "wickets": 10,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 291,
+                  "wickets": 7,
+                  "overs": 49.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 29 Oct 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 107028,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "39th Match",
+              "matchFormat": "ODI",
+              "startDate": "1730215800000",
+              "endDate": "1730244600000",
+              "state": "Complete",
+              "status": "Nepal won by 5 wkts",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "venueInfo": {
+                "id": 915,
+                "ground": "Prairie View Cricket Complex",
+                "city": "Houston",
+                "timezone": "-05:00"
+              },
+              "currBatTeamId": 72,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 154,
+                  "wickets": 10,
+                  "overs": 41.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 157,
+                  "wickets": 5,
+                  "overs": 29.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 31 Oct 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 107036,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "40th Match",
+              "matchFormat": "ODI",
+              "startDate": "1730388600000",
+              "endDate": "1730417400000",
+              "state": "Complete",
+              "status": "Scotland won by 71 runs",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 1668,
+                "ground": "Grand Prairie Stadium",
+                "city": "Dallas",
+                "timezone": "-05:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 317,
+                  "wickets": 5,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 246,
+                  "wickets": 10,
+                  "overs": 44
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 01 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108921,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "41st Match",
+              "matchFormat": "ODI",
+              "startDate": "1730440800000",
+              "endDate": "1730469600000",
+              "state": "Complete",
+              "status": "Oman won by 6 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 128,
+                  "wickets": 10,
+                  "overs": 41.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 129,
+                  "wickets": 4,
+                  "overs": 43.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 02 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 107044,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "42nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1730561400000",
+              "endDate": "1730590200000",
+              "state": "Complete",
+              "status": "United States of America won by 37 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "venueInfo": {
+                "id": 915,
+                "ground": "Prairie View Cricket Complex",
+                "city": "Houston",
+                "timezone": "-05:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 281,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 244,
+                  "wickets": 10,
+                  "overs": 49.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 03 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108928,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "43rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1730613600000",
+              "endDate": "1730642400000",
+              "state": "Complete",
+              "status": "United Arab Emirates won by 26 runs",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 7,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 240,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 214,
+                  "wickets": 10,
+                  "overs": 47.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 04 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 107052,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "44th Match",
+              "matchFormat": "ODI",
+              "startDate": "1730737800000",
+              "endDate": "1730766600000",
+              "state": "Complete",
+              "status": "No result due to rain",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 915,
+                "ground": "Prairie View Cricket Complex",
+                "city": "Houston",
+                "timezone": "-05:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 26,
+                  "wickets": 1,
+                  "overs": 6
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 05 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108931,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "45th Match",
+              "matchFormat": "ODI",
+              "startDate": "1730786400000",
+              "endDate": "1730815200000",
+              "state": "Complete",
+              "status": "Oman won by 8 wkts",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 132,
+                  "wickets": 10,
+                  "overs": 40.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 133,
+                  "wickets": 2,
+                  "overs": 34.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 07 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108935,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "46th Match",
+              "matchFormat": "ODI",
+              "startDate": "1730959200000",
+              "endDate": "1730988000000",
+              "state": "Complete",
+              "status": "Oman won by 4 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 78,
+                  "wickets": 10,
+                  "overs": 25.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 79,
+                  "wickets": 6,
+                  "overs": 24.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 09 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108938,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "47th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731132000000",
+              "endDate": "1731160800000",
+              "state": "Complete",
+              "status": "Netherlands won by 67 runs",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 241,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 174,
+                  "wickets": 10,
+                  "overs": 45.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 11 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108942,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "48th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731304800000",
+              "endDate": "1731333600000",
+              "state": "Complete",
+              "status": "Oman won by 1 run",
+              "team1": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 155,
+                  "wickets": 10,
+                  "overs": 44.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 154,
+                  "wickets": 10,
+                  "overs": 45.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 08 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113715,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "49th Match",
+              "matchFormat": "ODI",
+              "startDate": "1738994400000",
+              "endDate": "1739023200000",
+              "state": "Complete",
+              "status": "United States of America won by 114 runs - 43 overs game due to Wet outfield",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 293,
+                  "wickets": 8,
+                  "overs": 43
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 179,
+                  "wickets": 10,
+                  "overs": 40.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 10 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113721,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "50th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739167200000",
+              "endDate": "1739196000000",
+              "state": "Complete",
+              "status": "Namibia won by 23 runs",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 161,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 169,
+                  "wickets": 10,
+                  "overs": 46.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 146,
+                  "wickets": 10,
+                  "overs": 37.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 12 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113730,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "51st Match",
+              "matchFormat": "ODI",
+              "startDate": "1739340000000",
+              "endDate": "1739368800000",
+              "state": "Complete",
+              "status": "Oman won by 7 wkts",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 151,
+                  "wickets": 10,
+                  "overs": 42.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 152,
+                  "wickets": 3,
+                  "overs": 45.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 14 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113733,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "52nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1739512800000",
+              "endDate": "1739541600000",
+              "state": "Complete",
+              "status": "United States of America won by 70 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 268,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 198,
+                  "wickets": 10,
+                  "overs": 42.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 16 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113742,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "53rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1739685600000",
+              "endDate": "1739714400000",
+              "state": "Complete",
+              "status": "Oman won by 2 wkts",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 96,
+                  "wickets": 10,
+                  "overs": 33.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 100,
+                  "wickets": 8,
+                  "overs": 22.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 18 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113751,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "54th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739858400000",
+              "endDate": "1739887200000",
+              "state": "Complete",
+              "status": "United States of America won by 57 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 549,
+                "ground": "Al Amerat Cricket Ground (Ministry Turf 1)",
+                "city": "Al Amerat",
+                "timezone": "+04:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 122,
+                  "wickets": 10,
+                  "overs": 35.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 65,
+                  "wickets": 10,
+                  "overs": 25.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 05 Mar 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 114780,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "55th Match",
+              "matchFormat": "ODI",
+              "startDate": "1741159800000",
+              "endDate": "1741188600000",
+              "state": "Abandon",
+              "status": "Match abandoned due to rain (with a toss)",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 363,
+                "ground": "Wanderers Cricket Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 07 Mar 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 114787,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "56th Match",
+              "matchFormat": "ODI",
+              "startDate": "1741332600000",
+              "endDate": "1741361400000",
+              "state": "Complete",
+              "status": "Netherlands won by 53 runs (40 Ovs game due to rain)",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 363,
+                "ground": "Wanderers Cricket Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 159,
+                  "wickets": 10,
+                  "overs": 39.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 106,
+                  "wickets": 10,
+                  "overs": 30
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 09 Mar 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 114789,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "57th Match",
+              "matchFormat": "ODI",
+              "startDate": "1741505400000",
+              "endDate": "1741534200000",
+              "state": "Complete",
+              "status": "Match tied (Canada won the Super Over) 39 overs game  -  DLS Target 175",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 363,
+                "ground": "Wanderers Cricket Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 26,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 168,
+                  "wickets": 8,
+                  "overs": 39
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 174,
+                  "wickets": 10,
+                  "overs": 39
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 11 Mar 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 114796,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "58th Match",
+              "matchFormat": "ODI",
+              "startDate": "1741678200000",
+              "endDate": "1741707000000",
+              "state": "Abandon",
+              "status": "Match abandoned due to wet outfield (no toss)",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 363,
+                "ground": "Wanderers Cricket Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 13 Mar 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 114805,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "59th Match",
+              "matchFormat": "ODI",
+              "startDate": "1741851000000",
+              "endDate": "1741879800000",
+              "state": "Complete",
+              "status": "Netherlands won by 7 wkts",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 363,
+                "ground": "Wanderers Cricket Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 148,
+                  "wickets": 10,
+                  "overs": 44.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 149,
+                  "wickets": 3,
+                  "overs": 37
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 15 Mar 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 114814,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "60th Match",
+              "matchFormat": "ODI",
+              "startDate": "1742023800000",
+              "endDate": "1742052600000",
+              "state": "Complete",
+              "status": "Namibia won by 12 runs (2nd innings reduced to 43 ovs due to rain, DLS target 167)",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 363,
+                "ground": "Wanderers Cricket Ground",
+                "city": "Windhoek",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 161,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 186,
+                  "wickets": 10,
+                  "overs": 49
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 154,
+                  "wickets": 10,
+                  "overs": 42
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 04 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117575,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "61st Match",
+              "matchFormat": "ODI",
+              "startDate": "1746349200000",
+              "endDate": "1746378000000",
+              "state": "Complete",
+              "status": "Scotland won by 3 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 264,
+                "ground": "VRA Cricket Ground",
+                "city": "Amstelveen",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 225,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 226,
+                  "wickets": 7,
+                  "overs": 46.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 06 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117584,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "62nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1746522000000",
+              "endDate": "1746550800000",
+              "state": "Complete",
+              "status": "Netherlands won by 113 runs",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "venueInfo": {
+                "id": 264,
+                "ground": "VRA Cricket Ground",
+                "city": "Amstelveen",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 272,
+                  "wickets": 7,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 159,
+                  "wickets": 10,
+                  "overs": 41.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 08 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117593,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "63rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1746694800000",
+              "endDate": "1746723600000",
+              "state": "Complete",
+              "status": "United Arab Emirates won by 97 runs",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 264,
+                "ground": "VRA Cricket Ground",
+                "city": "Amstelveen",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 7,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 296,
+                  "wickets": 6,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 199,
+                  "wickets": 10,
+                  "overs": 43.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 10 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117596,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "64th Match",
+              "matchFormat": "ODI",
+              "startDate": "1746867600000",
+              "endDate": "1746896400000",
+              "state": "Complete",
+              "status": "Netherlands won by 19 runs",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 264,
+                "ground": "VRA Cricket Ground",
+                "city": "Amstelveen",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 282,
+                  "wickets": 7,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 263,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 12 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117605,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "65th Match",
+              "matchFormat": "ODI",
+              "startDate": "1747040400000",
+              "endDate": "1747069200000",
+              "state": "Complete",
+              "status": "Netherlands won by 5 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 283,
+                "ground": "SV Kampong CC",
+                "city": "Kampong, Utrecht",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 204,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 205,
+                  "wickets": 5,
+                  "overs": 36
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 14 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117611,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "66th Match",
+              "matchFormat": "ODI",
+              "startDate": "1747213200000",
+              "endDate": "1747242000000",
+              "state": "Complete",
+              "status": "Scotland won by 8 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 283,
+                "ground": "SV Kampong CC",
+                "city": "Kampong, Utrecht",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 161,
+                  "wickets": 10,
+                  "overs": 47.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 162,
+                  "wickets": 2,
+                  "overs": 24.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 16 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117614,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "67th Match",
+              "matchFormat": "ODI",
+              "startDate": "1747386000000",
+              "endDate": "1747414800000",
+              "state": "Complete",
+              "status": "Scotland won by 145 runs",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 283,
+                "ground": "SV Kampong CC",
+                "city": "Kampong, Utrecht",
+                "timezone": "+02:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 380,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 235,
+                  "wickets": 10,
+                  "overs": 42.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 17 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117623,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "68th Match",
+              "matchFormat": "ODI",
+              "startDate": "1747490400000",
+              "endDate": "1747519200000",
+              "state": "Complete",
+              "status": "United States of America won by 169 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 270,
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 361,
+                  "wickets": 3,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 192,
+                  "wickets": 10,
+                  "overs": 46.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 19 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117629,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "69th Match",
+              "matchFormat": "ODI",
+              "startDate": "1747663200000",
+              "endDate": "1747692000000",
+              "state": "Complete",
+              "status": "Oman won by 15 runs",
+              "team1": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 270,
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 217,
+                  "wickets": 6,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 202,
+                  "wickets": 10,
+                  "overs": 49
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 21 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117632,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "70th Match",
+              "matchFormat": "ODI",
+              "startDate": "1747836000000",
+              "endDate": "1747864800000",
+              "state": "Complete",
+              "status": "Match tied and Super Over (Oman won the Super Over by 2 wickets) ",
+              "team1": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 270,
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 266,
+                  "wickets": 10,
+                  "overs": 49.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 266,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 23 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117641,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "71st Match",
+              "matchFormat": "ODI",
+              "startDate": "1748008800000",
+              "endDate": "1748037600000",
+              "state": "Complete",
+              "status": "Oman won by 18 runs (DLS method)",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 270,
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 304,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 212,
+                  "wickets": 10,
+                  "overs": 48.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 108,
+                  "wickets": 3,
+                  "overs": 23.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 25 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117647,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "72nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1748181600000",
+              "endDate": "1748210400000",
+              "state": "Complete",
+              "status": "United States of America won by 88 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 270,
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 286,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 198,
+                  "wickets": 10,
+                  "overs": 46.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 27 May 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 117650,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "73rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1748354400000",
+              "endDate": "1748383200000",
+              "state": "Complete",
+              "status": "United States of America won by 9 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 172353
+              },
+              "venueInfo": {
+                "id": 270,
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 293,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 284,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 02 Jun 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 118964,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "74th Match",
+              "matchFormat": "ODI",
+              "startDate": "1748858400000",
+              "endDate": "1748887200000",
+              "state": "Complete",
+              "status": "Nepal won by 1 wkt",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 72,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 296,
+                  "wickets": 7,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 297,
+                  "wickets": 9,
+                  "overs": 49.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 04 Jun 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 118973,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "75th Match",
+              "matchFormat": "ODI",
+              "startDate": "1749031200000",
+              "endDate": "1749060000000",
+              "state": "Complete",
+              "status": "Nepal won by 5 wkts",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 72,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 225,
+                  "wickets": 10,
+                  "overs": 49.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 226,
+                  "wickets": 5,
+                  "overs": 47.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 06 Jun 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 118982,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "76th Match",
+              "matchFormat": "ODI",
+              "startDate": "1749204000000",
+              "endDate": "1749232800000",
+              "state": "Complete",
+              "status": "Scotland won by 44 runs",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 262,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 218,
+                  "wickets": 10,
+                  "overs": 45
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 08 Jun 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 118988,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "77th Match",
+              "matchFormat": "ODI",
+              "startDate": "1749376800000",
+              "endDate": "1749405600000",
+              "state": "Complete",
+              "status": "Scotland won by 2 runs",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 323,
+                  "wickets": 6,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 321,
+                  "wickets": 10,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 10 Jun 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 118997,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "78th Match",
+              "matchFormat": "ODI",
+              "startDate": "1749549600000",
+              "endDate": "1749578400000",
+              "state": "Complete",
+              "status": "Nepal won by 16 runs",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 72,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 236,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 220,
+                  "wickets": 10,
+                  "overs": 49.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 12 Jun 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 119000,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "79th Match",
+              "matchFormat": "ODI",
+              "startDate": "1749722400000",
+              "endDate": "1749751200000",
+              "state": "Complete",
+              "status": "Netherlands won by 4 wkts",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 172138
+              },
+              "venueInfo": {
+                "id": 573,
+                "ground": "Forthill",
+                "city": "Dundee",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 369,
+                  "wickets": 6,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 374,
+                  "wickets": 6,
+                  "overs": 49.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 27 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128875,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "80th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756306800000",
+              "endDate": "1756335600000",
+              "state": "Complete",
+              "status": "Namibia won by 5 wkts",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 161,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 219,
+                  "wickets": 10,
+                  "overs": 49.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 220,
+                  "wickets": 5,
+                  "overs": 48.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 29 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128886,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "81st Match",
+              "matchFormat": "ODI",
+              "startDate": "1756477800000",
+              "endDate": "1756506600000",
+              "state": "Abandon",
+              "status": "Match abandoned due to wet outfield (no toss)",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 31 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128897,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "82nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1756652400000",
+              "endDate": "1756681200000",
+              "state": "Complete",
+              "status": "Scotland won by 7 wkts",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 184,
+                  "wickets": 10,
+                  "overs": 48.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 187,
+                  "wickets": 3,
+                  "overs": 41.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 02 Sep 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128902,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "83rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1756823400000",
+              "endDate": "1756852200000",
+              "state": "Complete",
+              "status": "Namibia won by 24 runs",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 161,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 261,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 237,
+                  "wickets": 10,
+                  "overs": 48.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 04 Sep 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128908,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "84th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756996200000",
+              "endDate": "1757025000000",
+              "state": "Complete",
+              "status": "Scotland won by 55 runs (24 overs game due to rain)",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 172229
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 164,
+                  "wickets": 10,
+                  "overs": 24
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 109,
+                  "wickets": 10,
+                  "overs": 21.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 06 Sep 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128919,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "85th Match",
+              "matchFormat": "ODI",
+              "startDate": "1757169000000",
+              "endDate": "1757197800000",
+              "state": "Abandon",
+              "status": "Match abandoned due to wet outfield (no toss)",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 172140
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 172137
+              },
+              "venueInfo": {
+                "id": 139,
+                "ground": "Maple Leaf North-West Ground",
+                "city": "King City",
+                "timezone": "-04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 26 Oct 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 135250,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "86th Match",
+              "matchFormat": "ODI",
+              "startDate": "1761456600000",
+              "endDate": "1761485400000",
+              "state": "Upcoming",
+              "status": "Match starts at Oct 26, 05:30 GMT",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 153,
+                "ground": "Dubai International Cricket Stadium",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 28 Oct 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 135255,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "87th Match",
+              "matchFormat": "ODI",
+              "startDate": "1761629400000",
+              "endDate": "1761658200000",
+              "state": "Upcoming",
+              "status": "Match starts at Oct 28, 05:30 GMT",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 153,
+                "ground": "Dubai International Cricket Stadium",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 30 Oct 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 135261,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "88th Match",
+              "matchFormat": "ODI",
+              "startDate": "1761802200000",
+              "endDate": "1761831000000",
+              "state": "Upcoming",
+              "status": "Match starts at Oct 30, 05:30 GMT",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "venueInfo": {
+                "id": 289,
+                "ground": "ICC Academy Ground",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 01 Nov 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 135277,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "89th Match",
+              "matchFormat": "ODI",
+              "startDate": "1761975000000",
+              "endDate": "1762003800000",
+              "state": "Upcoming",
+              "status": "Match starts at Nov 01, 05:30 GMT",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 289,
+                "ground": "ICC Academy Ground",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 03 Nov 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 135288,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "90th Match",
+              "matchFormat": "ODI",
+              "startDate": "1762147800000",
+              "endDate": "1762176600000",
+              "state": "Upcoming",
+              "status": "Match starts at Nov 03, 05:30 GMT",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 172130
+              },
+              "venueInfo": {
+                "id": 153,
+                "ground": "Dubai International Cricket Stadium",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 05 Nov 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 135299,
+              "seriesId": 7572,
+              "seriesName": "ICC Cricket World Cup League Two 2023-27",
+              "matchDesc": "91st Match",
+              "matchFormat": "ODI",
+              "startDate": "1762320600000",
+              "endDate": "1762349400000",
+              "state": "Upcoming",
+              "status": "Match starts at Nov 05, 05:30 GMT",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 172121
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 172169
+              },
+              "venueInfo": {
+                "id": 289,
+                "ground": "ICC Academy Ground",
+                "city": "Dubai",
+                "timezone": "+04:00"
+              },
+              "seriesStartDt": "1707955200000",
+              "seriesEndDt": "1806537600000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7572
+      }
+    }
+  ],
+  "landingPosition": 164,
+  "appIndex": {
+    "seoTitle": "ICC Cricket World Cup League Two 2023-27 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

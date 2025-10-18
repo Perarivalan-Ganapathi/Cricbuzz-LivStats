@@ -1,0 +1,274 @@
+{
+  "player": [
+    {
+      "name": "BATSMEN",
+      "imageId": 174146
+    },
+    {
+      "id": "11808",
+      "name": "Shubman Gill",
+      "imageId": 616515,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "13940",
+      "name": "Yashasvi Jaiswal",
+      "imageId": 591942,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "13866",
+      "name": "Sai Sudharsan",
+      "imageId": 717782,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "576",
+      "name": "Rohit Sharma",
+      "imageId": 616514,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "1413",
+      "name": "Virat Kohli",
+      "imageId": 616517,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm medium"
+    },
+    {
+      "id": "7915",
+      "name": "Suryakumar Yadav",
+      "imageId": 352481,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "9428",
+      "name": "Shreyas Iyer",
+      "imageId": 616518,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "10896",
+      "name": "Rinku Singh",
+      "imageId": 279125,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "14504",
+      "name": "Tilak Varma",
+      "imageId": 226525,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "11813",
+      "name": "Ruturaj Gaikwad",
+      "imageId": 333874,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "10636",
+      "name": "Rajat Patidar",
+      "imageId": 760758,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "9429",
+      "name": "Sarfaraz Khan",
+      "imageId": 591955,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "9716",
+      "name": "Abhimanyu Easwaran",
+      "imageId": 591956,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "8257",
+      "name": "Karun Nair",
+      "imageId": 717781,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "name": "ALL ROUNDER",
+      "imageId": 174146
+    },
+    {
+      "id": "14701",
+      "name": "Nitish Kumar Reddy",
+      "imageId": 591947,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "9647",
+      "name": "Hardik Pandya",
+      "imageId": 616519,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "11195",
+      "name": "Shivam Dube",
+      "imageId": 593805,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm medium"
+    },
+    {
+      "id": "12086",
+      "name": "Abhishek Sharma",
+      "imageId": 153963,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm orthodox"
+    },
+    {
+      "id": "587",
+      "name": "Ravindra Jadeja",
+      "imageId": 616520,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm orthodox"
+    },
+    {
+      "id": "8683",
+      "name": "Shardul Thakur",
+      "imageId": 352487,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "10945",
+      "name": "Washington Sundar",
+      "imageId": 616522,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+      "id": "8808",
+      "name": "Axar Patel",
+      "imageId": 616521,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm orthodox"
+    },
+    {
+      "name": "WICKET KEEPER",
+      "imageId": 174146
+    },
+    {
+      "id": "10744",
+      "name": "Rishabh Pant",
+      "imageId": 616524,
+      "battingStyle": "Left-hand bat"
+    },
+    {
+      "id": "8733",
+      "name": "KL Rahul",
+      "imageId": 616523,
+      "battingStyle": "Right-hand bat"
+    },
+    {
+      "id": "14691",
+      "name": "Dhruv Jurel",
+      "imageId": 591954,
+      "battingStyle": "Right-hand bat"
+    },
+    {
+      "id": "8271",
+      "name": "Sanju Samson",
+      "imageId": 226289,
+      "battingStyle": "Right-hand bat"
+    },
+    {
+      "id": "10276",
+      "name": "Ishan Kishan",
+      "imageId": 352492,
+      "battingStyle": "Left-hand bat"
+    },
+    {
+      "name": "BOWLER",
+      "imageId": 174146
+    },
+    {
+      "id": "10808",
+      "name": "Mohammed Siraj",
+      "imageId": 591952,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast"
+    },
+    {
+      "id": "9311",
+      "name": "Jasprit Bumrah",
+      "imageId": 591949,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast"
+    },
+    {
+      "id": "10551",
+      "name": "Prasidh Krishna",
+      "imageId": 591958,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast"
+    },
+    {
+      "id": "14726",
+      "name": "Akash Deep",
+      "imageId": 591951,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "8292",
+      "name": "Kuldeep Yadav",
+      "imageId": 616525,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm wrist-spin"
+    },
+    {
+      "id": "13217",
+      "name": "Arshdeep Singh",
+      "imageId": 616527,
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm fast-medium"
+    },
+    {
+      "id": "24729",
+      "name": "Harshit Rana",
+      "imageId": 616529,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "14659",
+      "name": "Ravi Bishnoi",
+      "imageId": 226280,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+      "id": "10754",
+      "name": "Mukesh Kumar",
+      "imageId": 333872,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+      "id": "12926",
+      "name": "Varun Chakaravarthy",
+      "imageId": 616528,
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm legbreak"
+    }
+  ]
+}

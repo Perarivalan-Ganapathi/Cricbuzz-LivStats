@@ -1,0 +1,1650 @@
+{
+  "matchDetails": [
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 25 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108075,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "1st Match",
+              "matchFormat": "ODI",
+              "startDate": "1727244000000",
+              "endDate": "1727244000000",
+              "state": "complete",
+              "status": "Kuwait won by 2 wkts",
+              "team1": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "team2": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "venueInfo": {
+                "ground": "Gymkhana Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 298,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 308,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 310,
+                  "wickets": 8,
+                  "overs": 49.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108083,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "2nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1727244000000",
+              "endDate": "1727244000000",
+              "state": "complete",
+              "status": "Kenya won by 6 wkts",
+              "team1": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "team2": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "venueInfo": {
+                "ground": "Ruaraka Sports Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 14,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 207,
+                  "wickets": 10,
+                  "overs": 48.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 208,
+                  "wickets": 4,
+                  "overs": 38.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "layout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 26 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108089,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "3rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1727330400000",
+              "endDate": "1727330400000",
+              "state": "complete",
+              "status": "Jersey won by 168 runs",
+              "team1": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "team2": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "venueInfo": {
+                "ground": "Gymkhana Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 303,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 320,
+                  "wickets": 10,
+                  "overs": 49.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 152,
+                  "wickets": 10,
+                  "overs": 40.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108097,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "4th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727330400000",
+              "endDate": "1727330400000",
+              "state": "complete",
+              "status": "Papua New Guinea won by 6 wkts",
+              "team1": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "team2": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "venueInfo": {
+                "ground": "Ruaraka Sports Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 287,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 80,
+                  "wickets": 10,
+                  "overs": 26.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 83,
+                  "wickets": 4,
+                  "overs": 13.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 28 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108099,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "5th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727503200000",
+              "endDate": "1727503200000",
+              "state": "complete",
+              "status": "Jersey won by 7 wkts",
+              "team1": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "team2": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "venueInfo": {
+                "ground": "Gymkhana Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 303,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 113,
+                  "wickets": 3,
+                  "overs": 23
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 112,
+                  "wickets": 10,
+                  "overs": 37.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108105,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "6th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727503200000",
+              "endDate": "1727503200000",
+              "state": "complete",
+              "status": "Kuwait won by 47 runs (DLS method)",
+              "team1": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "team2": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "venueInfo": {
+                "ground": "Ruaraka Sports Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 298,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 298,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 141,
+                  "wickets": 5,
+                  "overs": 28
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 29 Sep 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108107,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "7th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727589600000",
+              "endDate": "1727589600000",
+              "state": "complete",
+              "status": "Denmark won by 4 wkts",
+              "team1": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "team2": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "venueInfo": {
+                "ground": "Gymkhana Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 185,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 268,
+                  "wickets": 6,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 272,
+                  "wickets": 6,
+                  "overs": 49.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_2",
+        "layout": "native_large",
+        "position": 4
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 01 Oct 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108113,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "8th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727762400000",
+              "endDate": "1727762400000",
+              "state": "complete",
+              "status": "Jersey won by 123 runs",
+              "team1": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "team2": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "venueInfo": {
+                "ground": "Gymkhana Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 303,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 219,
+                  "wickets": 10,
+                  "overs": 49.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 96,
+                  "wickets": 10,
+                  "overs": 27
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108153,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "9th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727762400000",
+              "endDate": "1727762400000",
+              "state": "complete",
+              "status": "Papua New Guinea won by 7 wkts",
+              "team1": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "team2": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "venueInfo": {
+                "ground": "Ruaraka Sports Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 287,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 298,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 299,
+                  "wickets": 3,
+                  "overs": 41.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 02 Oct 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108121,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "11th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727848800000",
+              "endDate": "1727848800000",
+              "state": "complete",
+              "status": "Kuwait won by 97 runs",
+              "team1": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "team2": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "venueInfo": {
+                "ground": "Ruaraka Sports Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 298,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 215,
+                  "wickets": 10,
+                  "overs": 41.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 312,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108115,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "10th Match",
+              "matchFormat": "ODI",
+              "startDate": "1727848800000",
+              "endDate": "1727848800000",
+              "state": "complete",
+              "status": "Denmark won by 3 wkts",
+              "team1": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "team2": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "venueInfo": {
+                "ground": "Gymkhana Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 185,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 256,
+                  "wickets": 7,
+                  "overs": 48.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 250,
+                  "wickets": 10,
+                  "overs": 49.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 04 Oct 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108129,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "12th Match",
+              "matchFormat": "ODI",
+              "startDate": "1728021600000",
+              "endDate": "1728021600000",
+              "state": "complete",
+              "status": "Kenya won by 3 wkts",
+              "team1": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "team2": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "venueInfo": {
+                "ground": "Gymkhana Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 14,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 166,
+                  "wickets": 7,
+                  "overs": 35.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 162,
+                  "wickets": 10,
+                  "overs": 48.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108137,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "13th Match ",
+              "matchFormat": "ODI",
+              "startDate": "1728021600000",
+              "endDate": "1728021600000",
+              "state": "complete",
+              "status": "Papua New Guinea won by 8 wkts",
+              "team1": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "team2": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "venueInfo": {
+                "ground": "Ruaraka Sports Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 287,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 65,
+                  "wickets": 10,
+                  "overs": 22.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 66,
+                  "wickets": 2,
+                  "overs": 10
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 05 Oct 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108139,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "14th Match ",
+              "matchFormat": "ODI",
+              "startDate": "1728108000000",
+              "endDate": "1728108000000",
+              "state": "complete",
+              "status": "Papua New Guinea won by 1 wkt",
+              "team1": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "team2": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "venueInfo": {
+                "ground": "Gymkhana Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 287,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 258,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 262,
+                  "wickets": 9,
+                  "overs": 49.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108145,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "15th Match",
+              "matchFormat": "ODI",
+              "startDate": "1728108000000",
+              "endDate": "1728108000000",
+              "state": "complete",
+              "status": "Jersey won by 52 runs",
+              "team1": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "team2": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "venueInfo": {
+                "ground": "Ruaraka Sports Club Ground",
+                "city": "Nairobi",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 303,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 231,
+                  "wickets": 10,
+                  "overs": 44.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 283,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 21 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128946,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "17th Match",
+              "matchFormat": "ODI",
+              "startDate": "1755770400000",
+              "endDate": "1755770400000",
+              "state": "complete",
+              "status": "Jersey won by 7 wkts",
+              "team1": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "team2": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "venueInfo": {
+                "ground": "Farmers Cricket Club Ground",
+                "city": "St Martin",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 303,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 117,
+                  "wickets": 10,
+                  "overs": 36.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 116,
+                  "wickets": 3,
+                  "overs": 23.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 128941,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "16th Match",
+              "matchFormat": "ODI",
+              "startDate": "1755770400000",
+              "endDate": "1755770400000",
+              "state": "complete",
+              "status": "Kuwait won by 22 runs",
+              "team1": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "team2": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "venueInfo": {
+                "ground": "Grainville",
+                "city": "St Saviour",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 298,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 299,
+                  "wickets": 7,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 277,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 22 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128957,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "18th Match",
+              "matchFormat": "ODI",
+              "startDate": "1755856800000",
+              "endDate": "1755856800000",
+              "state": "complete",
+              "status": "Denmark won by 18 runs",
+              "team1": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "team2": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "venueInfo": {
+                "ground": "Grainville",
+                "city": "St Saviour",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 185,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 205,
+                  "wickets": 10,
+                  "overs": 48.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 223,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 23 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128968,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "19th Match",
+              "matchFormat": "ODI",
+              "startDate": "1755943200000",
+              "endDate": "1755943200000",
+              "state": "complete",
+              "status": "Match tied",
+              "team1": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "team2": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "venueInfo": {
+                "ground": "Farmers Cricket Club Ground",
+                "city": "St Martin",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 303,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 223,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 223,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 24 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128974,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "20th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756029600000",
+              "endDate": "1756029600000",
+              "state": "complete",
+              "status": "Qatar won by 8 wkts",
+              "team1": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "team2": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "venueInfo": {
+                "ground": "Grainville",
+                "city": "St Saviour",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 525,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 243,
+                  "wickets": 2,
+                  "overs": 43.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 242,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 128985,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "21st Match",
+              "matchFormat": "ODI",
+              "startDate": "1756029600000",
+              "endDate": "1756029600000",
+              "state": "complete",
+              "status": "Kuwait won by 4 wkts",
+              "team1": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "team2": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "venueInfo": {
+                "ground": "Farmers Cricket Club Ground",
+                "city": "St Martin",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 298,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 148,
+                  "wickets": 10,
+                  "overs": 35.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 149,
+                  "wickets": 6,
+                  "overs": 22.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 25 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 128996,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "22nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1756116000000",
+              "endDate": "1756116000000",
+              "state": "complete",
+              "status": "Jersey won by 89 runs",
+              "team1": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "team2": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "venueInfo": {
+                "ground": "Grainville",
+                "city": "St Saviour",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 303,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 348,
+                  "wickets": 3,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 259,
+                  "wickets": 10,
+                  "overs": 45
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 27 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 129018,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "24th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756288800000",
+              "endDate": "1756288800000",
+              "state": "complete",
+              "status": "No result",
+              "team1": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "team2": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "venueInfo": {
+                "ground": "Farmers Cricket Club Ground",
+                "city": "St Martin",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 185,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 265,
+                  "wickets": 7,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 37,
+                  "wickets": 3,
+                  "overs": 16
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 129007,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "23rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1756288800000",
+              "endDate": "1756288800000",
+              "state": "complete",
+              "status": "No result",
+              "team1": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "team2": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "venueInfo": {
+                "ground": "Grainville",
+                "city": "St Saviour",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 287,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 53,
+                  "wickets": 2,
+                  "overs": 14.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 275,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 28 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 129029,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "25th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756375200000",
+              "endDate": "1756375200000",
+              "state": "complete",
+              "status": "Kuwait won by 7 wkts",
+              "team1": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "team2": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "venueInfo": {
+                "ground": "Grainville",
+                "city": "St Saviour",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 298,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 162,
+                  "wickets": 10,
+                  "overs": 35.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 166,
+                  "wickets": 3,
+                  "overs": 39.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 129040,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "26th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756375200000",
+              "endDate": "1756375200000",
+              "state": "complete",
+              "status": "Jersey won by 160 runs",
+              "team1": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "team2": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "venueInfo": {
+                "ground": "Farmers Cricket Club Ground",
+                "city": "St Martin",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 303,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 101,
+                  "wickets": 10,
+                  "overs": 30.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 261,
+                  "wickets": 10,
+                  "overs": 49.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 30 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 129045,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "27th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756548000000",
+              "endDate": "1756548000000",
+              "state": "complete",
+              "status": "No result",
+              "team1": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "team2": {
+                "teamId": 298,
+                "teamName": "KUWAIT",
+                "teamSName": "KUW",
+                "imageId": 248427
+              },
+              "venueInfo": {
+                "ground": "Grainville",
+                "city": "St Saviour",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 298,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 85,
+                  "wickets": 4,
+                  "overs": 19
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 129051,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "28th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756548000000",
+              "endDate": "1756548000000",
+              "state": "complete",
+              "status": "No result",
+              "team1": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 172336
+              },
+              "team2": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "venueInfo": {
+                "ground": "Farmers Cricket Club Ground",
+                "city": "St Martin",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 525,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 145,
+                  "wickets": 10,
+                  "overs": 38
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 21,
+                  "wickets": 2,
+                  "overs": 5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 31 Aug 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 129062,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "29th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756634400000",
+              "endDate": "1756634400000",
+              "state": "complete",
+              "status": "Jersey won by 8 wkts",
+              "team1": {
+                "teamId": 303,
+                "teamName": "JERSEY",
+                "teamSName": "JER",
+                "imageId": 172352
+              },
+              "team2": {
+                "teamId": 525,
+                "teamName": "QATAR",
+                "teamSName": "QAT",
+                "imageId": 172575
+              },
+              "venueInfo": {
+                "ground": "Grainville",
+                "city": "St Saviour",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 303,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 136,
+                  "wickets": 2,
+                  "overs": 18.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 132,
+                  "wickets": 10,
+                  "overs": 47.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 129067,
+              "seriesId": 8993,
+              "seriesName": "ICC CWC Challenge League A, 2024-26",
+              "matchDesc": "30th Match",
+              "matchFormat": "ODI",
+              "startDate": "1756634400000",
+              "endDate": "1756634400000",
+              "state": "complete",
+              "status": "Denmark won by 188 runs",
+              "team1": {
+                "teamId": 185,
+                "teamName": "DENMARK",
+                "teamSName": "DEN",
+                "imageId": 172245
+              },
+              "team2": {
+                "teamId": 14,
+                "teamName": "KENYA",
+                "teamSName": "KEN",
+                "imageId": 172129
+              },
+              "venueInfo": {
+                "ground": "Farmers Cricket Club Ground",
+                "city": "St Martin",
+                "timezone": "+01:00"
+              },
+              "currBatTeamId": 185,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 308,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 120,
+                  "wickets": 10,
+                  "overs": 33.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 8993
+      }
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "ICC CWC Challenge League A, 2024-26 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

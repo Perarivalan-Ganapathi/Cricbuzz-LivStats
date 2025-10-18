@@ -1,0 +1,149 @@
+{
+  "seriesMapProto": [
+    {
+      "date": "SEPTEMBER 2025",
+      "series": [
+        {
+          "id": 10961,
+          "name": "Womens T20I Quadrangular Series in China 2025",
+          "startDt": "1758326400000",
+          "endDt": "1758758400000"
+        },
+        {
+          "id": 10454,
+          "name": "ICC Womens World Cup Warm-up Matches 2025",
+          "startDt": "1758758400000",
+          "endDt": "1759017600000"
+        },
+        {
+          "id": 10983,
+          "name": "United Arab Emirates Women tour of Zimbabwe 2025",
+          "startDt": "1758844800000",
+          "endDt": "1759708800000"
+        },
+        {
+          "id": 10009,
+          "name": "ICC Womens World Cup 2025",
+          "startDt": "1759190400000",
+          "endDt": "1762041600000"
+        }
+      ]
+    },
+    {
+      "date": "OCTOBER 2025",
+      "series": [
+        {
+          "id": 10675,
+          "name": "T20 Spring Challenge 2025",
+          "startDt": "1761004800000",
+          "endDt": "1761782400000"
+        },
+        {
+          "id": 11005,
+          "name": "Canada Women tour of Tanzania, 2025",
+          "startDt": "1761782400000",
+          "endDt": "1762300800000"
+        }
+      ]
+    },
+    {
+      "date": "NOVEMBER 2025",
+      "series": [
+        {
+          "id": 10405,
+          "name": "Womens Big Bash League 2025",
+          "startDt": "1762646400000",
+          "endDt": "1765584000000"
+        }
+      ]
+    },
+    {
+      "date": "DECEMBER 2025",
+      "series": [
+        {
+          "id": 10994,
+          "name": "Ireland Women tour of South Africa 2025",
+          "startDt": "1764892800000",
+          "endDt": "1766102400000"
+        }
+      ]
+    },
+    {
+      "date": "FEBRUARY 2026",
+      "series": [
+        {
+          "id": 10146,
+          "name": "Pakistan Women tour of South Africa, 2026",
+          "startDt": "1770681600000",
+          "endDt": "1772323200000"
+        },
+        {
+          "id": 9611,
+          "name": "India Women tour of Australia, 2026",
+          "startDt": "1771113600000",
+          "endDt": "1772755200000"
+        },
+        {
+          "id": 10245,
+          "name": "Zimbabwe Women tour of New Zealand, 2026",
+          "startDt": "1771977600000",
+          "endDt": "1773187200000"
+        }
+      ]
+    },
+    {
+      "date": "MARCH 2026",
+      "series": [
+        {
+          "id": 10251,
+          "name": "South Africa Women tour of New Zealand, 2026",
+          "startDt": "1773532800000",
+          "endDt": "1775260800000"
+        }
+      ]
+    },
+    {
+      "date": "MAY 2026",
+      "series": [
+        {
+          "id": 10526,
+          "name": "New Zealand Women tour of England 2026",
+          "startDt": "1778371200000",
+          "endDt": "1779667200000"
+        },
+        {
+          "id": 10543,
+          "name": "India Women tour of England 2026",
+          "startDt": "1779926400000",
+          "endDt": "1815436800000"
+        }
+      ]
+    },
+    {
+      "date": "JUNE 2026",
+      "series": [
+        {
+          "id": 10119,
+          "name": "ICC Womens T20 World Cup 2026",
+          "startDt": "1781222400000",
+          "endDt": "1783209600000"
+        }
+      ]
+    },
+    {
+      "date": "AUGUST 2026",
+      "series": [
+        {
+          "id": 10548,
+          "name": "Ireland Women tour of England 2026",
+          "startDt": "1788220800000",
+          "endDt": "1788652800000"
+        }
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

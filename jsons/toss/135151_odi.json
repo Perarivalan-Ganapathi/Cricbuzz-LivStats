@@ -1,0 +1,111 @@
+{
+  "matchid": 135151,
+  "seriesid": 10983,
+  "seriesname": "United Arab Emirates Women tour of Zimbabwe 2025",
+  "matchdesc": "1st ODI",
+  "matchformat": "ODI",
+  "startdate": 1758870900000,
+  "enddate": 1758898273813,
+  "state": "Complete",
+  "status": "Zimbabwe Women opt to bowl",
+  "team1": {
+    "teamid": 388,
+    "teamname": "Zimbabwe Women",
+    "teamsname": "ZIMW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 449,
+    "teamname": "United Arab Emirates Women",
+    "teamsname": "UAEW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 7489,
+    "name": "Christopher Phiri",
+    "country": "ZIM"
+  },
+  "umpire2": {
+    "id": 39496,
+    "name": "Collin Tlou",
+    "country": "ZIM"
+  },
+  "umpire3": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "referee": {
+    "id": 40024,
+    "name": "Julia Chibhabha",
+    "country": "ZIM"
+  },
+  "venueinfo": {
+    "id": 70,
+    "ground": "Queens Sports Club",
+    "city": "Bulawayo",
+    "country": "Zimbabwe",
+    "timezone": "+02:00",
+    "established": 1890,
+    "capacity": "9,000",
+    "knownas": "",
+    "ends": "City End, Airport End",
+    "hometeam": "Zimbabwe, Matabeleland",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts ZIMW vs UAEW 1st ODI,United Arab Emirates Women tour of Zimbabwe 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/135151/zimw-vs-uaew-1st-odi-united-arab-emirates-women-tour-of-zimbabwe-2025"
+  },
+  "istournament": false,
+  "tossstatus": "Zimbabwe Women opt to bowl",
+  "seriesstartdt": 1758758400000,
+  "seriesenddt": 1759795200000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "UAEW won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 767040,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

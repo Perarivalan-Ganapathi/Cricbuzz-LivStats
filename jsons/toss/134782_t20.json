@@ -1,0 +1,121 @@
+{
+  "matchid": 134782,
+  "seriesid": 10944,
+  "seriesname": "ICC Mens T20 World Cup Africa Regional Final 2025",
+  "matchdesc": "4th Match, Group B",
+  "matchformat": "T20",
+  "startdate": 1758887400000,
+  "enddate": 1758898027744,
+  "state": "Complete",
+  "status": "Botswana opt to bat",
+  "team1": {
+    "teamid": 535,
+    "teamname": "Tanzania",
+    "teamsname": "TAN",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 529,
+    "teamname": "Botswana",
+    "teamsname": "BW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "umpire2": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "umpire3": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "referee": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "venueinfo": {
+    "id": 762,
+    "ground": "Takashinga Sports Club",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "timezone": "+02:00",
+    "established": 0,
+    "capacity": "",
+    "knownas": "",
+    "ends": "",
+    "hometeam": "",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts TAN vs BW 4th Match, Group B,ICC Mens T20 World Cup Africa Regional Final 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/134782/tan-vs-bw-4th-match-group-b-icc-mens-t20-world-cup-africa-regional-final-2025"
+  },
+  "istournament": true,
+  "tossstatus": "Botswana opt to bat",
+  "seriesstartdt": 1758758400000,
+  "seriesenddt": 1759622400000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [
+    {
+      "country": "IN",
+      "broadcaster": [
+        {
+          "broadcasttype": "Streaming",
+          "value": "FanCode"
+        }
+      ]
+    }
+  ],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "TAN won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 767045,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

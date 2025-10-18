@@ -1,0 +1,125 @@
+{
+  "matchid": 130168,
+  "seriesid": 10587,
+  "seriesname": "Asia Cup 2025",
+  "matchdesc": "Super Fours, 18th Match (A1 v B1)",
+  "matchformat": "T20",
+  "startdate": 1758897000000,
+  "enddate": 1758911989347,
+  "state": "Complete",
+  "status": "Sri Lanka opt to bowl",
+  "team1": {
+    "teamid": 2,
+    "teamname": "India",
+    "teamsname": "IND",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 5,
+    "teamname": "Sri Lanka",
+    "teamsname": "SL",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 8245,
+    "name": "Gazi Sohel",
+    "country": "BAN"
+  },
+  "umpire2": {
+    "id": 11151,
+    "name": "Izatullah Safi",
+    "country": "AFG"
+  },
+  "umpire3": {
+    "id": 7514,
+    "name": "Masudur Rahman",
+    "country": "BAN"
+  },
+  "referee": {
+    "id": 4190,
+    "name": "Richie Richardson",
+    "country": "WI"
+  },
+  "venueinfo": {
+    "id": 153,
+    "ground": "Dubai International Cricket Stadium",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00",
+    "established": 0,
+    "capacity": "25,000",
+    "knownas": "",
+    "ends": "Emirates Road End, Dubai Sports City End",
+    "hometeam": "United Arab Emirates",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts IND vs SL Super Fours, 18th Match (A1 v B1),Asia Cup 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/130168/ind-vs-sl-super-fours-18th-match-a1-v-b1-asia-cup-2025"
+  },
+  "istournament": true,
+  "tossstatus": "Sri Lanka opt to bowl",
+  "seriesstartdt": 1757289600000,
+  "seriesenddt": 1759104000000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [
+    {
+      "country": "IN",
+      "broadcaster": [
+        {
+          "broadcasttype": "Streaming",
+          "value": "SonyLIV,FanCode"
+        },
+        {
+          "broadcasttype": "TV",
+          "value": "Sony Sports Network"
+        }
+      ]
+    }
+  ],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "Tie",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 764042,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

@@ -1,0 +1,221 @@
+{
+  "seriesMapProto": [
+    {
+      "date": "FEBRUARY 2024",
+      "series": [
+        {
+          "id": 7572,
+          "name": "ICC Cricket World Cup League Two 2023-27",
+          "startDt": "1707955200000",
+          "endDt": "1806364800000"
+        }
+      ]
+    },
+    {
+      "date": "SEPTEMBER 2025",
+      "series": [
+        {
+          "id": 10587,
+          "name": "Asia Cup 2025",
+          "startDt": "1757376000000",
+          "endDt": "1759017600000"
+        },
+        {
+          "id": 10944,
+          "name": "ICC Mens T20 World Cup Africa Regional Final 2025",
+          "startDt": "1758844800000",
+          "endDt": "1759536000000"
+        },
+        {
+          "id": 10091,
+          "name": "West Indies vs Nepal in UAE, 2025",
+          "startDt": "1758931200000",
+          "endDt": "1759190400000"
+        },
+        {
+          "id": 11016,
+          "name": "Kuwait tour of Oman, 2025",
+          "startDt": "1759104000000",
+          "endDt": "1759190400000"
+        },
+        {
+          "id": 10201,
+          "name": "Australia tour of New Zealand, 2025",
+          "startDt": "1759276800000",
+          "endDt": "1759536000000"
+        }
+      ]
+    },
+    {
+      "date": "OCTOBER 2025",
+      "series": [
+        {
+          "id": 9629,
+          "name": "West Indies tour of India, 2025",
+          "startDt": "1759363200000",
+          "endDt": "1760400000000"
+        },
+        {
+          "id": 10840,
+          "name": "Afghanistan vs Bangladesh in UAE 2025",
+          "startDt": "1759363200000",
+          "endDt": "1760400000000"
+        },
+        {
+          "id": 10625,
+          "name": "ICC Mens T20 World Cup East Asia Pacific Qualifier 2025",
+          "startDt": "1759881600000",
+          "endDt": "1760659200000"
+        },
+        {
+          "id": 10504,
+          "name": "South Africa tour of Namibia 2025",
+          "startDt": "1760140800000",
+          "endDt": "1760140800000"
+        },
+        {
+          "id": 10895,
+          "name": "South Africa tour of Pakistan, 2025",
+          "startDt": "1760227200000",
+          "endDt": "1762560000000"
+        },
+        {
+          "id": 10212,
+          "name": "England tour of New Zealand, 2025",
+          "startDt": "1760745600000",
+          "endDt": "1761955200000"
+        },
+        {
+          "id": 10955,
+          "name": "West Indies tour of Bangladesh, 2025",
+          "startDt": "1760745600000",
+          "endDt": "1761955200000"
+        },
+        {
+          "id": 9596,
+          "name": "India tour of Australia, 2025",
+          "startDt": "1760832000000",
+          "endDt": "1762560000000"
+        }
+      ]
+    },
+    {
+      "date": "NOVEMBER 2025",
+      "series": [
+        {
+          "id": 10223,
+          "name": "West Indies tour of New Zealand, 2025",
+          "startDt": "1762300800000",
+          "endDt": "1766361600000"
+        },
+        {
+          "id": 10972,
+          "name": "Ireland tour of Bangladesh, 2025",
+          "startDt": "1762732800000",
+          "endDt": "1764633600000"
+        },
+        {
+          "id": 10933,
+          "name": "Sri Lanka tour of Pakistan 2025",
+          "startDt": "1762819200000",
+          "endDt": "1763164800000"
+        },
+        {
+          "id": 9638,
+          "name": "South Africa tour of India, 2025",
+          "startDt": "1763078400000",
+          "endDt": "1766102400000"
+        },
+        {
+          "id": 10906,
+          "name": "Pakistan T20I Tri-Series 2025",
+          "startDt": "1763337600000",
+          "endDt": "1764374400000"
+        },
+        {
+          "id": 9107,
+          "name": "The Ashes, 2025-26",
+          "startDt": "1763683200000",
+          "endDt": "1767830400000"
+        }
+      ]
+    },
+    {
+      "date": "JANUARY 2026",
+      "series": [
+        {
+          "id": 10102,
+          "name": "New Zealand tour of India, 2026",
+          "startDt": "1768089600000",
+          "endDt": "1769817600000"
+        },
+        {
+          "id": 10774,
+          "name": "England tour of Sri Lanka 2026",
+          "startDt": "1769040000000",
+          "endDt": "1770076800000"
+        },
+        {
+          "id": 9551,
+          "name": "West Indies tour of South Africa, 2026",
+          "startDt": "1769472000000",
+          "endDt": "1770336000000"
+        }
+      ]
+    },
+    {
+      "date": "MARCH 2026",
+      "series": [
+        {
+          "id": 10234,
+          "name": "South Africa tour of New Zealand, 2026",
+          "startDt": "1773532800000",
+          "endDt": "1774396800000"
+        }
+      ]
+    },
+    {
+      "date": "JUNE 2026",
+      "series": [
+        {
+          "id": 10559,
+          "name": "New Zealand tour of England, 2026",
+          "startDt": "1780531200000",
+          "endDt": "1782691200000"
+        },
+        {
+          "id": 10532,
+          "name": "India tour of England, 2026",
+          "startDt": "1782864000000",
+          "endDt": "1784419200000"
+        }
+      ]
+    },
+    {
+      "date": "AUGUST 2026",
+      "series": [
+        {
+          "id": 10565,
+          "name": "Pakistan tour of England 2026",
+          "startDt": "1787097600000",
+          "endDt": "1788912000000"
+        }
+      ]
+    },
+    {
+      "date": "SEPTEMBER 2026",
+      "series": [
+        {
+          "id": 10576,
+          "name": "Sri Lanka tour of England, 2026",
+          "startDt": "1789430400000",
+          "endDt": "1790467200000"
+        }
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

@@ -1,0 +1,203 @@
+🏏 Required Tables (from your 25 queries)
+1. Players Table
+
+Holds player info (bio + role).
+Fields:
+
+player_id (PK)
+
+full_name
+
+country
+
+playing_role (Batsman, Bowler, All-rounder, WK)
+
+batting_style
+
+bowling_style
+
+👉 Needed for: Q1, Q6, Q9
+
+2. Matches Table
+
+Holds overall match details.
+Fields:
+
+match_id (PK)
+
+series_id (FK)
+
+match_desc
+
+format (Test/ODI/T20I)
+
+team1_id, team2_id
+
+winner
+
+victory_margin, victory_type
+
+venue_id (FK)
+
+start_date, end_date
+
+state (Live, Complete)
+
+status (summary: “India won by 5 wickets”)
+
+toss_winner, toss_decision
+
+👉 Needed for: Q2, Q5, Q10, Q12, Q17, Q22
+
+3. Teams Table
+
+Reference table for team info.
+Fields:
+
+team_id (PK)
+
+team_name
+
+short_name
+
+country
+
+👉 Needed for: Joins in matches, Q12, Q22
+
+4. Venues Table
+
+Holds stadium/venue info.
+Fields:
+
+venue_id (PK)
+
+venue_name
+
+city
+
+country
+
+capacity
+
+👉 Needed for: Q4, Q10, Q12
+
+5. Series Table
+
+For tournament/series details.
+Fields:
+
+series_id (PK)
+
+series_name
+
+host_country
+
+match_type (Test/ODI/T20)
+
+start_date
+
+total_matches
+
+👉 Needed for: Q8
+
+6. Batting Stats Table
+
+Stores player-level batting performance per match.
+Fields:
+
+player_id (FK)
+
+match_id (FK)
+
+runs
+
+balls_faced
+
+fours
+
+sixes
+
+strike_rate
+
+highest_score (optional aggregate column)
+
+batting_average
+
+👉 Needed for: Q3, Q7, Q11, Q15, Q16, Q19, Q20, Q23, Q25
+
+7. Bowling Stats Table
+
+Stores player-level bowling performance per match.
+Fields:
+
+player_id (FK)
+
+match_id (FK)
+
+overs
+
+maidens
+
+runs_conceded
+
+wickets
+
+economy
+
+bowling_average
+
+👉 Needed for: Q9, Q11, Q14, Q18, Q20, Q21
+
+8. Partnerships Table
+
+Stores batting partnerships.
+Fields:
+
+match_id (FK)
+
+innings
+
+player1_id (FK)
+
+player2_id (FK)
+
+runs
+
+👉 Needed for: Q13, Q24
+
+9. Fielding Stats Table
+
+Optional but required for rankings.
+Fields:
+
+player_id (FK)
+
+match_id (FK)
+
+catches
+
+stumpings
+
+👉 Needed for: Q21
+
+📊 Summary
+
+So, for your 25 queries, you need at least 9 tables:
+
+players
+
+matches
+
+teams
+
+venues
+
+series
+
+batting_stats
+
+bowling_stats
+
+partnerships
+
+fielding_stats

@@ -1,0 +1,125 @@
+{
+  "matchid": 121345,
+  "seriesid": 10091,
+  "seriesname": "West Indies vs Nepal in UAE, 2025",
+  "matchdesc": "1st T20I",
+  "matchformat": "T20",
+  "startdate": 1758983400000,
+  "enddate": 1758996477875,
+  "state": "Complete",
+  "status": "West Indies opt to bowl",
+  "team1": {
+    "teamid": 10,
+    "teamname": "West Indies",
+    "teamsname": "WI",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 72,
+    "teamname": "Nepal",
+    "teamsname": "NEP",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 7250,
+    "name": "Buddhi Pradhan",
+    "country": "NEP"
+  },
+  "umpire2": {
+    "id": 16909,
+    "name": "Durga Subedi",
+    "country": "NEP"
+  },
+  "umpire3": {
+    "id": 12709,
+    "name": "Vinay Kumar",
+    "country": "NEP"
+  },
+  "referee": {
+    "id": 8968,
+    "name": "Vengalil Narayanan Kutty",
+    "country": "IND"
+  },
+  "venueinfo": {
+    "id": 140,
+    "ground": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00",
+    "established": 1982,
+    "capacity": "16,000",
+    "knownas": "",
+    "ends": "Pavilion End, Sharjah Club End",
+    "hometeam": "United Arab Emirates",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts WI vs NEP 1st T20I,West Indies vs Nepal in UAE, 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/121345/wi-vs-nep-1st-t20i-west-indies-vs-nepal-in-uae-2025"
+  },
+  "istournament": false,
+  "tossstatus": "West Indies opt to bowl",
+  "seriesstartdt": 1758844800000,
+  "seriesenddt": 1759276800000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [
+    {
+      "country": "IN",
+      "broadcaster": [
+        {
+          "broadcasttype": "Streaming",
+          "value": "FanCode"
+        },
+        {
+          "broadcasttype": "TV",
+          "value": "Sony Sports Network"
+        }
+      ]
+    }
+  ],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "NEP won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 765330,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

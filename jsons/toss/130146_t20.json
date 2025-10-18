@@ -1,0 +1,125 @@
+{
+  "matchid": 130146,
+  "seriesid": 10587,
+  "seriesname": "Asia Cup 2025",
+  "matchdesc": "Super Fours, 16th Match (A1 v B2)",
+  "matchformat": "T20",
+  "startdate": 1758724200000,
+  "enddate": 1758736916786,
+  "state": "Complete",
+  "status": "Bangladesh opt to bowl",
+  "team1": {
+    "teamid": 2,
+    "teamname": "India",
+    "teamsname": "IND",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 6,
+    "teamname": "Bangladesh",
+    "teamsname": "BAN",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 11152,
+    "name": "Ahmad Shah Pakteen",
+    "country": "AFG"
+  },
+  "umpire2": {
+    "id": 7465,
+    "name": "Ruchira Palliyaguruge",
+    "country": "SL"
+  },
+  "umpire3": {
+    "id": 8572,
+    "name": "Raveendra Wimalasiri",
+    "country": "SL"
+  },
+  "referee": {
+    "id": 3395,
+    "name": "Andy Pycroft",
+    "country": "ZIM"
+  },
+  "venueinfo": {
+    "id": 153,
+    "ground": "Dubai International Cricket Stadium",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00",
+    "established": 0,
+    "capacity": "25,000",
+    "knownas": "",
+    "ends": "Emirates Road End, Dubai Sports City End",
+    "hometeam": "United Arab Emirates",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts IND vs BAN Super Fours, 16th Match (A1 v B2),Asia Cup 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/130146/ind-vs-ban-super-fours-16th-match-a1-v-b2-asia-cup-2025"
+  },
+  "istournament": true,
+  "tossstatus": "Bangladesh opt to bowl",
+  "seriesstartdt": 1757289600000,
+  "seriesenddt": 1759104000000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [
+    {
+      "country": "IN",
+      "broadcaster": [
+        {
+          "broadcasttype": "Streaming",
+          "value": "SonyLIV,FanCode"
+        },
+        {
+          "broadcasttype": "TV",
+          "value": "Sony Sports Network"
+        }
+      ]
+    }
+  ],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "IND won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 762985,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

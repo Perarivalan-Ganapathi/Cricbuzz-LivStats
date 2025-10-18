@@ -1,0 +1,111 @@
+{
+  "matchid": 133484,
+  "seriesid": 10829,
+  "seriesname": "Australia Domestic One-Day Cup 2025-26",
+  "matchdesc": "5th Match",
+  "matchformat": "ODI",
+  "startdate": 1758427200000,
+  "enddate": 1758455672363,
+  "state": "Complete",
+  "status": "Western Australia opt to bat",
+  "team1": {
+    "teamid": 164,
+    "teamname": "Queensland",
+    "teamsname": "QL",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 87,
+    "teamname": "Western Australia",
+    "teamsname": "WA",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 12634,
+    "name": "Andrew Crozier",
+    "country": "AUS"
+  },
+  "umpire2": {
+    "id": 12210,
+    "name": "Stephen Dionysius ",
+    "country": "AUS"
+  },
+  "umpire3": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "referee": {
+    "id": 4590,
+    "name": "Kepler Wessels",
+    "country": "AUS"
+  },
+  "venueinfo": {
+    "id": 300,
+    "ground": "Allan Border Field",
+    "city": "Brisbane",
+    "country": "Australia",
+    "timezone": "+10:00",
+    "established": 0,
+    "capacity": "4500",
+    "knownas": "",
+    "ends": "Crosby Road End, Albion Park End",
+    "hometeam": "Queensland",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts QL vs WA 5th Match,Australia Domestic One-Day Cup 2025-26 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/133484/ql-vs-wa-5th-match-australia-domestic-one-day-cup-2025-26"
+  },
+  "istournament": true,
+  "tossstatus": "Western Australia opt to bat",
+  "seriesstartdt": 1757894400000,
+  "seriesenddt": 1772323200000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [],
+  "daynight": false,
+  "matchtype": "domestic",
+  "seriestype": "",
+  "shortstatus": "QL won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 762242,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

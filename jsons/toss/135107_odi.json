@@ -1,0 +1,111 @@
+{
+  "matchid": 135107,
+  "seriesid": 10454,
+  "seriesname": "ICC Womens World Cup Warm-up Matches 2025",
+  "matchdesc": "5th Match",
+  "matchformat": "ODI",
+  "startdate": 1758965400000,
+  "enddate": 1758992322560,
+  "state": "Complete",
+  "status": "Bangladesh Women opt to bat",
+  "team1": {
+    "teamid": 329,
+    "teamname": "Bangladesh Women",
+    "teamsname": "BANW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 258,
+    "teamname": "Sri Lanka Women",
+    "teamsname": "SLW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 39170,
+    "name": "Kerrin Klaaste",
+    "country": "RSA"
+  },
+  "umpire2": {
+    "id": 15339,
+    "name": "N Janani",
+    "country": "IND"
+  },
+  "umpire3": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "referee": {
+    "id": 11373,
+    "name": "GS Lakshmi",
+    "country": "IND"
+  },
+  "venueinfo": {
+    "id": 256,
+    "ground": "Colombo Cricket Club Ground",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "timezone": "+05:30",
+    "established": 0,
+    "capacity": "6000",
+    "knownas": "",
+    "ends": "Press Box End, Pavilion End",
+    "hometeam": "Colombo Cricket Club",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts BANW vs SLW 5th Match,ICC Womens World Cup Warm-up Matches 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/135107/banw-vs-slw-5th-match-icc-womens-world-cup-warm-up-matches-2025"
+  },
+  "istournament": false,
+  "tossstatus": "Bangladesh Women opt to bat",
+  "seriesstartdt": 1758672000000,
+  "seriesenddt": 1759104000000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [],
+  "daynight": true,
+  "matchtype": "domestic",
+  "seriestype": "",
+  "shortstatus": "BANW won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 763827,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

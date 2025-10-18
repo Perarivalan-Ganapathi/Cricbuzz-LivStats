@@ -1,0 +1,125 @@
+{
+  "matchid": 130157,
+  "seriesid": 10587,
+  "seriesname": "Asia Cup 2025",
+  "matchdesc": "Super Fours, 17th Match (A2 v B2)",
+  "matchformat": "T20",
+  "startdate": 1758810600000,
+  "enddate": 1758824814815,
+  "state": "Complete",
+  "status": "Bangladesh opt to bowl",
+  "team1": {
+    "teamid": 3,
+    "teamname": "Pakistan",
+    "teamsname": "PAK",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 6,
+    "teamname": "Bangladesh",
+    "teamsname": "BAN",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 11152,
+    "name": "Ahmad Shah Pakteen",
+    "country": "AFG"
+  },
+  "umpire2": {
+    "id": 8572,
+    "name": "Raveendra Wimalasiri",
+    "country": "SL"
+  },
+  "umpire3": {
+    "id": 11151,
+    "name": "Izatullah Safi",
+    "country": "AFG"
+  },
+  "referee": {
+    "id": 3395,
+    "name": "Andy Pycroft",
+    "country": "ZIM"
+  },
+  "venueinfo": {
+    "id": 153,
+    "ground": "Dubai International Cricket Stadium",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00",
+    "established": 0,
+    "capacity": "25,000",
+    "knownas": "",
+    "ends": "Emirates Road End, Dubai Sports City End",
+    "hometeam": "United Arab Emirates",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts PAK vs BAN Super Fours, 17th Match (A2 v B2),Asia Cup 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/130157/pak-vs-ban-super-fours-17th-match-a2-v-b2-asia-cup-2025"
+  },
+  "istournament": true,
+  "tossstatus": "Bangladesh opt to bowl",
+  "seriesstartdt": 1757289600000,
+  "seriesenddt": 1759104000000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [
+    {
+      "country": "IN",
+      "broadcaster": [
+        {
+          "broadcasttype": "Streaming",
+          "value": "SonyLIV,FanCode"
+        },
+        {
+          "broadcasttype": "TV",
+          "value": "Sony Sports Network"
+        }
+      ]
+    }
+  ],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "PAK won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 763050,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

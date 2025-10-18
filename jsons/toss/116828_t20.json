@@ -1,0 +1,125 @@
+{
+  "matchid": 116828,
+  "seriesid": 9575,
+  "seriesname": "Caribbean Premier League 2025",
+  "matchdesc": "Final",
+  "matchformat": "T20",
+  "startdate": 1758499200000,
+  "enddate": 1758514057629,
+  "state": "Complete",
+  "status": "Guyana Amazon Warriors opt to bat",
+  "team1": {
+    "teamid": 159,
+    "teamname": "Guyana Amazon Warriors",
+    "teamsname": "GAW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 271,
+    "teamname": "Trinbago Knight Riders",
+    "teamsname": "TKR",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 9541,
+    "name": "Christopher Taylor",
+    "country": "WI"
+  },
+  "umpire2": {
+    "id": 9520,
+    "name": "Gregory Brathwaite",
+    "country": "WI"
+  },
+  "umpire3": {
+    "id": 9515,
+    "name": "Leslie Reifer",
+    "country": "WI"
+  },
+  "referee": {
+    "id": 4236,
+    "name": "Reon King",
+    "country": "WI"
+  },
+  "venueinfo": {
+    "id": 110,
+    "ground": "Providence Stadium",
+    "city": "Guyana",
+    "country": "West Indies",
+    "timezone": "-04:00",
+    "established": 2006,
+    "capacity": "15,000",
+    "knownas": "",
+    "ends": "Media Centre End, Pavillion End",
+    "hometeam": "",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts GAW vs TKR Final,Caribbean Premier League 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/116828/gaw-vs-tkr-final-caribbean-premier-league-2025"
+  },
+  "istournament": true,
+  "tossstatus": "Guyana Amazon Warriors opt to bat",
+  "seriesstartdt": 1755043200000,
+  "seriesenddt": 1758499200000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [
+    {
+      "country": "IN",
+      "broadcaster": [
+        {
+          "broadcasttype": "Streaming",
+          "value": "FanCode"
+        },
+        {
+          "broadcasttype": "TV",
+          "value": "Star Sports Network"
+        }
+      ]
+    }
+  ],
+  "daynight": false,
+  "matchtype": "league",
+  "seriestype": "",
+  "shortstatus": "TKR won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 759747,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

@@ -1,0 +1,111 @@
+{
+  "matchid": 135090,
+  "seriesid": 10454,
+  "seriesname": "ICC Womens World Cup Warm-up Matches 2025",
+  "matchdesc": "2nd Match",
+  "matchformat": "ODI",
+  "startdate": 1758792600000,
+  "enddate": 1758806880682,
+  "state": "Complete",
+  "status": "No result due to rain-South Africa Women opt to bat",
+  "team1": {
+    "teamid": 329,
+    "teamname": "Bangladesh Women",
+    "teamsname": "BANW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 260,
+    "teamname": "South Africa Women",
+    "teamsname": "RSAW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 14344,
+    "name": "Kim Cotton",
+    "country": "NZ"
+  },
+  "umpire2": {
+    "id": 32051,
+    "name": "Nimali Perera",
+    "country": "SL"
+  },
+  "umpire3": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "referee": {
+    "id": 15339,
+    "name": "N Janani",
+    "country": "IND"
+  },
+  "venueinfo": {
+    "id": 15,
+    "ground": "R.Premadasa Stadium",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "timezone": "+05:30",
+    "established": 1986,
+    "capacity": "35,000",
+    "knownas": "",
+    "ends": "Khettarama End, Scoreboard End",
+    "hometeam": "Sri Lanka",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts BANW vs RSAW 2nd Match,ICC Womens World Cup Warm-up Matches 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/135090/banw-vs-rsaw-2nd-match-icc-womens-world-cup-warm-up-matches-2025"
+  },
+  "istournament": false,
+  "tossstatus": "South Africa Women opt to bat",
+  "seriesstartdt": 1758672000000,
+  "seriesenddt": 1759104000000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [],
+  "daynight": false,
+  "matchtype": "domestic",
+  "seriestype": "",
+  "shortstatus": "No Result",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 762948,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

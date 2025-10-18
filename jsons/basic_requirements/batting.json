@@ -1,0 +1,168 @@
+{
+  "headers": [
+    "ROWHEADER",
+    "Test",
+    "ODI",
+    "T20",
+    "IPL"
+  ],
+  "values": [
+    {
+      "values": [
+        "Matches",
+        "63",
+        "85",
+        "72",
+        "145"
+      ]
+    },
+    {
+      "values": [
+        "Innings",
+        "111",
+        "79",
+        "68",
+        "136"
+      ]
+    },
+    {
+      "values": [
+        "Runs",
+        "3789",
+        "3043",
+        "2265",
+        "5222"
+      ]
+    },
+    {
+      "values": [
+        "Balls",
+        "7234",
+        "3451",
+        "1628",
+        "3839"
+      ]
+    },
+    {
+      "values": [
+        "Highest",
+        "199",
+        "112",
+        "110",
+        "132"
+      ]
+    },
+    {
+      "values": [
+        "Average",
+        "35.41",
+        "49.08",
+        "37.75",
+        "46.21"
+      ]
+    },
+    {
+      "values": [
+        "SR",
+        "52.38",
+        "88.18",
+        "139.13",
+        "136.03"
+      ]
+    },
+    {
+      "values": [
+        "Not Out",
+        "4",
+        "17",
+        "8",
+        "23"
+      ]
+    },
+    {
+      "values": [
+        "Fours",
+        "455",
+        "235",
+        "191",
+        "452"
+      ]
+    },
+    {
+      "values": [
+        "Sixes",
+        "26",
+        "67",
+        "99",
+        "208"
+      ]
+    },
+    {
+      "values": [
+        "Ducks",
+        "9",
+        "3",
+        "5",
+        "4"
+      ]
+    },
+    {
+      "values": [
+        "50s",
+        "19",
+        "18",
+        "22",
+        "40"
+      ]
+    },
+    {
+      "values": [
+        "100s",
+        "10",
+        "7",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "values": [
+        "200s",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "values": [
+        "300s",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "values": [
+        "400s",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "KL Rahul Profile - Cricbuzz | Cricbuzz.com",
+    "webURL": "http://www.cricbuzz.com/profiles/8733/kl-rahul"
+  },
+  "seriesSpinner": [
+    {
+      "seriesName": "Career"
+    },
+    {
+      "seriesId": 9935,
+      "seriesName": "Australia A tour of India, 2025"
+    }
+  ]
+}

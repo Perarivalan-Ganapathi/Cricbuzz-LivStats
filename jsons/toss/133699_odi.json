@@ -1,0 +1,111 @@
+{
+  "matchid": 133699,
+  "seriesid": 10845,
+  "seriesname": "South Africa Women tour of Pakistan, 2025",
+  "matchdesc": "3rd ODI",
+  "matchformat": "ODI",
+  "startdate": 1758537000000,
+  "enddate": 1758552119260,
+  "state": "Complete",
+  "status": "South Africa Women opt to bat",
+  "team1": {
+    "teamid": 259,
+    "teamname": "Pakistan Women",
+    "teamsname": "PAKW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 260,
+    "teamname": "South Africa Women",
+    "teamsname": "RSAW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 10740,
+    "name": "Claire Polosak",
+    "country": "AUS"
+  },
+  "umpire2": {
+    "id": 32023,
+    "name": "Saleema Imtiaz",
+    "country": "PAK"
+  },
+  "umpire3": {
+    "id": 14262,
+    "name": "Tariq Rasheed",
+    "country": "PAK"
+  },
+  "referee": {
+    "id": 5815,
+    "name": "Ali Naqvi",
+    "country": "PAK"
+  },
+  "venueinfo": {
+    "id": 26,
+    "ground": "Gaddafi Stadium",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "timezone": "+05:00",
+    "established": 1959,
+    "capacity": "27,000",
+    "knownas": "",
+    "ends": "Pavilion End, College End",
+    "hometeam": "Lahore",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts PAKW vs RSAW 3rd ODI,South Africa Women tour of Pakistan, 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/133699/pakw-vs-rsaw-3rd-odi-south-africa-women-tour-of-pakistan-2025"
+  },
+  "istournament": false,
+  "tossstatus": "South Africa Women opt to bat",
+  "seriesstartdt": 1757894400000,
+  "seriesenddt": 1758585600000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "PAKW won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 758576,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

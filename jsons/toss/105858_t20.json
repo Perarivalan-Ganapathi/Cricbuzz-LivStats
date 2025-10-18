@@ -1,0 +1,121 @@
+{
+  "matchid": 105858,
+  "seriesid": 8802,
+  "seriesname": "England tour of Ireland, 2025",
+  "matchdesc": "3rd T20I",
+  "matchformat": "T20",
+  "startdate": 1758457800000,
+  "enddate": 1758472373365,
+  "state": "Complete",
+  "status": "England opt to bowl",
+  "team1": {
+    "teamid": 27,
+    "teamname": "Ireland",
+    "teamsname": "IRE",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 9,
+    "teamname": "England",
+    "teamsname": "ENG",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 20047,
+    "name": "Aidan Seaver",
+    "country": "IRE"
+  },
+  "umpire2": {
+    "id": 7495,
+    "name": "Mark Hawthorne",
+    "country": "IRE"
+  },
+  "umpire3": {
+    "id": 26498,
+    "name": "Jonathan Kennedy",
+    "country": "IRE"
+  },
+  "referee": {
+    "id": 3894,
+    "name": "Javagal Srinath",
+    "country": "IND"
+  },
+  "venueinfo": {
+    "id": 370,
+    "ground": "The Village",
+    "city": "Dublin",
+    "country": "Ireland",
+    "timezone": "+01:00",
+    "established": 0,
+    "capacity": "",
+    "knownas": "",
+    "ends": "Dublin Road End, Castle End",
+    "hometeam": "Ireland",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts IRE vs ENG 3rd T20I,England tour of Ireland, 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/105858/ire-vs-eng-3rd-t20i-england-tour-of-ireland-2025"
+  },
+  "istournament": false,
+  "tossstatus": "England opt to bowl",
+  "seriesstartdt": 1757980800000,
+  "seriesenddt": 1758499200000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [
+    {
+      "country": "IN",
+      "broadcaster": [
+        {
+          "broadcasttype": "Streaming",
+          "value": "FanCode"
+        }
+      ]
+    }
+  ],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "ENG won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 757609,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

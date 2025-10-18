@@ -1,0 +1,111 @@
+{
+  "matchid": 133495,
+  "seriesid": 10829,
+  "seriesname": "Australia Domestic One-Day Cup 2025-26",
+  "matchdesc": "6th Match",
+  "matchformat": "ODI",
+  "startdate": 1758673800000,
+  "enddate": 1758700138648,
+  "state": "Complete",
+  "status": "South Australia opt to bowl",
+  "team1": {
+    "teamid": 158,
+    "teamname": "South Australia",
+    "teamsname": "SAUS",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 87,
+    "teamname": "Western Australia",
+    "teamsname": "WA",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 33372,
+    "name": "Chris Grant",
+    "country": "AUS"
+  },
+  "umpire2": {
+    "id": 10167,
+    "name": "Phillip Gillespie",
+    "country": "AUS"
+  },
+  "umpire3": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "referee": {
+    "id": 7508,
+    "name": "Simon Fry",
+    "country": "AUS"
+  },
+  "venueinfo": {
+    "id": 527,
+    "ground": "Karen Rolton Oval",
+    "city": "Adelaide, South Australia",
+    "country": "Australia",
+    "timezone": "+10:30",
+    "established": 0,
+    "capacity": "",
+    "knownas": "",
+    "ends": "Cnr Port, Goal Roads",
+    "hometeam": "Australian Cricket Academy",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts SAUS vs WA 6th Match,Australia Domestic One-Day Cup 2025-26 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/133495/saus-vs-wa-6th-match-australia-domestic-one-day-cup-2025-26"
+  },
+  "istournament": true,
+  "tossstatus": "South Australia opt to bowl",
+  "seriesstartdt": 1757894400000,
+  "seriesenddt": 1772323200000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [],
+  "daynight": false,
+  "matchtype": "domestic",
+  "seriestype": "",
+  "shortstatus": "WA won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 762242,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

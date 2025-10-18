@@ -1,0 +1,111 @@
+{
+  "matchid": 135118,
+  "seriesid": 10454,
+  "seriesname": "ICC Womens World Cup Warm-up Matches 2025",
+  "matchdesc": "6th Match",
+  "matchformat": "ODI",
+  "startdate": 1758965400000,
+  "enddate": 1758994816576,
+  "state": "Complete",
+  "status": "New Zealand Women opt to bat",
+  "team1": {
+    "teamid": 97,
+    "teamname": "India Women",
+    "teamsname": "INDW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 98,
+    "teamname": "New Zealand Women",
+    "teamsname": "NZW",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 10740,
+    "name": "Claire Polosak",
+    "country": "AUS"
+  },
+  "umpire2": {
+    "id": 11831,
+    "name": "Jacqueline Williams",
+    "country": "WI"
+  },
+  "umpire3": {
+    "id": 0,
+    "name": "",
+    "country": ""
+  },
+  "referee": {
+    "id": 9181,
+    "name": "Shandre Fritz",
+    "country": "RSA"
+  },
+  "venueinfo": {
+    "id": 1438087,
+    "ground": "BCCI Centre of Excellence Ground",
+    "city": "Bengaluru",
+    "country": "India",
+    "timezone": "+05:30",
+    "established": 0,
+    "capacity": "",
+    "knownas": "",
+    "ends": "",
+    "hometeam": "",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts INDW vs NZW 6th Match,ICC Womens World Cup Warm-up Matches 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/135118/indw-vs-nzw-6th-match-icc-womens-world-cup-warm-up-matches-2025"
+  },
+  "istournament": false,
+  "tossstatus": "New Zealand Women opt to bat",
+  "seriesstartdt": 1758672000000,
+  "seriesenddt": 1759104000000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [],
+  "daynight": true,
+  "matchtype": "domestic",
+  "seriestype": "",
+  "shortstatus": "INDW won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 763827,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}

@@ -1,0 +1,1585 @@
+{
+  "matchDetails": [
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 06 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108155,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "1st Match",
+              "matchFormat": "ODI",
+              "startDate": "1730876400000",
+              "endDate": "1730876400000",
+              "state": "complete",
+              "status": "Uganda won by 7 wkts",
+              "team1": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "team2": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "venueInfo": {
+                "ground": "Lugogo Stadium",
+                "city": "Kampala",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 44,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 86,
+                  "wickets": 3,
+                  "overs": 17.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 82,
+                  "wickets": 10,
+                  "overs": 38.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "layout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 07 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108161,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "2nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1730962800000",
+              "endDate": "1730962800000",
+              "state": "complete",
+              "status": "Hong Kong won by 3 wkts",
+              "team1": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "team2": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "venueInfo": {
+                "ground": "Lugogo Stadium",
+                "city": "Kampala",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 8,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 200,
+                  "wickets": 9,
+                  "overs": 46
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 201,
+                  "wickets": 7,
+                  "overs": 44.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108169,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "3rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1730962800000",
+              "endDate": "1730962800000",
+              "state": "complete",
+              "status": "Italy won by 9 wkts (DLS method)",
+              "team1": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "team2": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "venueInfo": {
+                "ground": "Entebbe Cricket Oval",
+                "city": "Entebbe",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 527,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 169,
+                  "wickets": 1,
+                  "overs": 28.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 173,
+                  "wickets": 10,
+                  "overs": 43.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 09 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108177,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "4th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731135600000",
+              "endDate": "1731135600000",
+              "state": "complete",
+              "status": "Uganda won by 209 runs",
+              "team1": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "team2": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "venueInfo": {
+                "ground": "Lugogo Stadium",
+                "city": "Kampala",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 44,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 289,
+                  "wickets": 7,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 80,
+                  "wickets": 10,
+                  "overs": 27.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108179,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "5th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731135600000",
+              "endDate": "1731135600000",
+              "state": "complete",
+              "status": "Italy won by 155 runs",
+              "team1": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "venueInfo": {
+                "ground": "Entebbe Cricket Oval",
+                "city": "Entebbe",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 527,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 187,
+                  "wickets": 10,
+                  "overs": 41.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 342,
+                  "wickets": 4,
+                  "overs": 50
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 10 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108187,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "6th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731222000000",
+              "endDate": "1731222000000",
+              "state": "complete",
+              "status": "No result due to rain",
+              "team1": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "team2": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "venueInfo": {
+                "ground": "Lugogo Stadium",
+                "city": "Kampala",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 8,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 291,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 72,
+                  "wickets": 3,
+                  "overs": 15.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108193,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "7th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731222000000",
+              "endDate": "1731222000000",
+              "state": "complete",
+              "status": "Bahrain won by 2 wkts",
+              "team1": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "team2": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "venueInfo": {
+                "ground": "Entebbe Cricket Oval",
+                "city": "Entebbe",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 543,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 146,
+                  "wickets": 8,
+                  "overs": 41.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 145,
+                  "wickets": 10,
+                  "overs": 47.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_2",
+        "layout": "native_large",
+        "position": 4
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 12 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108201,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "9th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731394800000",
+              "endDate": "1731394800000",
+              "state": "complete",
+              "status": "Hong Kong won by 5 wkts - 25 - over game",
+              "team1": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "team2": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "venueInfo": {
+                "ground": "Entebbe Cricket Oval",
+                "city": "Entebbe",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 8,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 131,
+                  "wickets": 5,
+                  "overs": 23.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 127,
+                  "wickets": 10,
+                  "overs": 24.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108195,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "8th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731394800000",
+              "endDate": "1731394800000",
+              "state": "complete",
+              "status": "Match abandoned without a ball bowled (no toss)",
+              "team1": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "venueInfo": {
+                "ground": "Lugogo Stadium",
+                "city": "Kampala",
+                "timezone": "+03:00"
+              },
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 13 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108209,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "10th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731481200000",
+              "endDate": "1731481200000",
+              "state": "complete",
+              "status": "No result",
+              "team1": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "team2": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "venueInfo": {
+                "ground": "Lugogo Stadium",
+                "city": "Kampala",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 535,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 100,
+                  "wickets": 3,
+                  "overs": 14
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108217,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "11th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731481200000",
+              "endDate": "1731481200000",
+              "state": "complete",
+              "status": "Uganda won by 24 runs",
+              "team1": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "venueInfo": {
+                "ground": "Entebbe Cricket Oval",
+                "city": "Entebbe",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 44,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 254,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 230,
+                  "wickets": 10,
+                  "overs": 49.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 15 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108225,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "12th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731654000000",
+              "endDate": "1731654000000",
+              "state": "complete",
+              "status": "Bahrain won by 84 runs",
+              "team1": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "team2": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "venueInfo": {
+                "ground": "Lugogo Stadium",
+                "city": "Kampala",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 543,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 237,
+                  "wickets": 10,
+                  "overs": 49.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 153,
+                  "wickets": 10,
+                  "overs": 35.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108233,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "13th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731654000000",
+              "endDate": "1731654000000",
+              "state": "complete",
+              "status": "Hong Kong won by 57 runs (DLS Method )",
+              "team1": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "team2": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "venueInfo": {
+                "ground": "Entebbe Cricket Oval",
+                "city": "Entebbe",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 8,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 128,
+                  "wickets": 9,
+                  "overs": 29
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 89,
+                  "wickets": 10,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 16 Nov 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 108235,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "14th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731740400000",
+              "endDate": "1731740400000",
+              "state": "complete",
+              "status": "Italy won by 8 wkts",
+              "team1": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "team2": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "venueInfo": {
+                "ground": "Lugogo Stadium",
+                "city": "Kampala",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 527,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 120,
+                  "wickets": 2,
+                  "overs": 15.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 118,
+                  "wickets": 10,
+                  "overs": 27.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 108243,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "15th Match",
+              "matchFormat": "ODI",
+              "startDate": "1731740400000",
+              "endDate": "1731740400000",
+              "state": "complete",
+              "status": "Uganda won by 166 runs",
+              "team1": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "team2": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "venueInfo": {
+                "ground": "Entebbe Cricket Oval",
+                "city": "Entebbe",
+                "timezone": "+03:00"
+              },
+              "currBatTeamId": 44,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 267,
+                  "wickets": 8,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 101,
+                  "wickets": 10,
+                  "overs": 40.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 06 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113757,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "16th Match",
+              "matchFormat": "ODI",
+              "startDate": "1738803600000",
+              "endDate": "1738803600000",
+              "state": "complete",
+              "status": "Hong Kong won by 7 wkts",
+              "team1": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "team2": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "venueInfo": {
+                "ground": "Mission Road Ground",
+                "city": "Mong Kok",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 8,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 175,
+                  "wickets": 3,
+                  "overs": 36.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 171,
+                  "wickets": 10,
+                  "overs": 46.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 07 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113760,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "17th Match",
+              "matchFormat": "ODI",
+              "startDate": "1738890000000",
+              "endDate": "1738890000000",
+              "state": "complete",
+              "status": "Uganda won by 52 runs",
+              "team1": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "team2": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "venueInfo": {
+                "ground": "Mission Road Ground",
+                "city": "Mong Kok",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 44,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 249,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 197,
+                  "wickets": 10,
+                  "overs": 44.1
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 113769,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "18th Match",
+              "matchFormat": "ODI",
+              "startDate": "1738890000000",
+              "endDate": "1738890000000",
+              "state": "complete",
+              "status": "Italy won by 8 wkts",
+              "team1": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "team2": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "venueInfo": {
+                "ground": "Kowloon Cricket Club",
+                "city": "Kowloon",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 527,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 95,
+                  "wickets": 2,
+                  "overs": 13.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 94,
+                  "wickets": 10,
+                  "overs": 25.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 09 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113775,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "19th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739062800000",
+              "endDate": "1739062800000",
+              "state": "complete",
+              "status": "Italy won by 6 wkts",
+              "team1": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "venueInfo": {
+                "ground": "Mission Road Ground",
+                "city": "Mong Kok",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 527,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 170,
+                  "wickets": 10,
+                  "overs": 41
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 175,
+                  "wickets": 4,
+                  "overs": 30.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 113784,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "20th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739062800000",
+              "endDate": "1739062800000",
+              "state": "complete",
+              "status": "Hong Kong won by 9 wkts",
+              "team1": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "team2": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "venueInfo": {
+                "ground": "Kowloon Cricket Club",
+                "city": "Kowloon",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 8,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 187,
+                  "wickets": 1,
+                  "overs": 34.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 182,
+                  "wickets": 10,
+                  "overs": 49.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 10 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113793,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "21st Match",
+              "matchFormat": "ODI",
+              "startDate": "1739149200000",
+              "endDate": "1739149200000",
+              "state": "complete",
+              "status": "Bahrain won by 6 wkts",
+              "team1": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "team2": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "venueInfo": {
+                "ground": "Mission Road Ground",
+                "city": "Mong Kok",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 543,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 140,
+                  "wickets": 4,
+                  "overs": 34.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 139,
+                  "wickets": 10,
+                  "overs": 41.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 113802,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "22nd Match",
+              "matchFormat": "ODI",
+              "startDate": "1739149200000",
+              "endDate": "1739149200000",
+              "state": "complete",
+              "status": "Uganda won by 8 wkts",
+              "team1": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "team2": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "venueInfo": {
+                "ground": "Kowloon Cricket Club",
+                "city": "Kowloon",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 44,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 243,
+                  "wickets": 9,
+                  "overs": 50
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 245,
+                  "wickets": 2,
+                  "overs": 40.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 12 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113811,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "24th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739322000000",
+              "endDate": "1739322000000",
+              "state": "complete",
+              "status": "Match abandoned without a ball bowled (no toss)",
+              "team1": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "venueInfo": {
+                "ground": "Kowloon Cricket Club",
+                "city": "Kowloon",
+                "timezone": "+08:00"
+              },
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 113805,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "23rd Match",
+              "matchFormat": "ODI",
+              "startDate": "1739322000000",
+              "endDate": "1739322000000",
+              "state": "complete",
+              "status": "Match abandoned without a ball bowled (no toss)",
+              "team1": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "team2": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "venueInfo": {
+                "ground": "Mission Road Ground",
+                "city": "Mong Kok",
+                "timezone": "+08:00"
+              },
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 13 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113814,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "25th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739408400000",
+              "endDate": "1739408400000",
+              "state": "complete",
+              "status": "Bahrain won by 8 wkts",
+              "team1": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "team2": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "venueInfo": {
+                "ground": "Mission Road Ground",
+                "city": "Mong Kok",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 543,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 123,
+                  "wickets": 2,
+                  "overs": 24.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 117,
+                  "wickets": 10,
+                  "overs": 33.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 113823,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "26th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739408400000",
+              "endDate": "1739408400000",
+              "state": "complete",
+              "status": "Uganda won by 76 runs",
+              "team1": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "team2": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "venueInfo": {
+                "ground": "Kowloon Cricket Club",
+                "city": "Kowloon",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 44,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 200,
+                  "wickets": 10,
+                  "overs": 46.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 276,
+                  "wickets": 10,
+                  "overs": 49.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 15 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113832,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "27th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739581200000",
+              "endDate": "1739581200000",
+              "state": "complete",
+              "status": "Uganda won by 59 runs",
+              "team1": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "team2": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 495000
+              },
+              "venueInfo": {
+                "ground": "Mission Road Ground",
+                "city": "Mong Kok",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 44,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 89,
+                  "wickets": 10,
+                  "overs": 29.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 148,
+                  "wickets": 10,
+                  "overs": 41.1
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 113841,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "28th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739581200000",
+              "endDate": "1739581200000",
+              "state": "complete",
+              "status": "Italy won by 6 wkts",
+              "team1": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "team2": {
+                "teamId": 543,
+                "teamName": "BAHRAIN",
+                "teamSName": "BHR",
+                "imageId": 172594
+              },
+              "venueInfo": {
+                "ground": "Kowloon Cricket Club",
+                "city": "Kowloon",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 527,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 132,
+                  "wickets": 4,
+                  "overs": 18.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 130,
+                  "wickets": 10,
+                  "overs": 43.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 16 Feb 2025",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 113850,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "29th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739667600000",
+              "endDate": "1739667600000",
+              "state": "complete",
+              "status": "Italy won by 7 wkts",
+              "team1": {
+                "teamId": 8,
+                "teamName": "HONG KONG",
+                "teamSName": "HK",
+                "imageId": 172122
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "ITALY",
+                "teamSName": "ITA",
+                "imageId": 172577
+              },
+              "venueInfo": {
+                "ground": "Mission Road Ground",
+                "city": "Mong Kok",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 527,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 146,
+                  "wickets": 10,
+                  "overs": 36
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 147,
+                  "wickets": 3,
+                  "overs": 23.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 113856,
+              "seriesId": 9001,
+              "seriesName": "ICC CWC Challenge League B, 2024-26",
+              "matchDesc": "30th Match",
+              "matchFormat": "ODI",
+              "startDate": "1739667600000",
+              "endDate": "1739667600000",
+              "state": "complete",
+              "status": "Tanzania won by 91 runs",
+              "team1": {
+                "teamId": 535,
+                "teamName": "TANZANIA",
+                "teamSName": "TAN",
+                "imageId": 172586
+              },
+              "team2": {
+                "teamId": 190,
+                "teamName": "SINGAPORE",
+                "teamSName": "SIN",
+                "imageId": 172250
+              },
+              "venueInfo": {
+                "ground": "Kowloon Cricket Club",
+                "city": "Kowloon",
+                "timezone": "+08:00"
+              },
+              "currBatTeamId": 535,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 189,
+                  "wickets": 10,
+                  "overs": 45.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 98,
+                  "wickets": 10,
+                  "overs": 28.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 9001
+      }
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "ICC CWC Challenge League B, 2024-26 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

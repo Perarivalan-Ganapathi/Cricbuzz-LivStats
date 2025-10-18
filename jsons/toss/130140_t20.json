@@ -1,0 +1,125 @@
+{
+  "matchid": 130140,
+  "seriesid": 10587,
+  "seriesname": "Asia Cup 2025",
+  "matchdesc": "Super Fours, 15th Match (A2 v B1)",
+  "matchformat": "T20",
+  "startdate": 1758637800000,
+  "enddate": 1758652435734,
+  "state": "Complete",
+  "status": "Pakistan opt to bowl",
+  "team1": {
+    "teamid": 3,
+    "teamname": "Pakistan",
+    "teamsname": "PAK",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "team2": {
+    "teamid": 5,
+    "teamname": "Sri Lanka",
+    "teamsname": "SL",
+    "isfullmember": false,
+    "isassociated": false,
+    "isleagueteam": false,
+    "iswomenteam": false,
+    "isheader": false,
+    "isactive": false,
+    "teampriority": "",
+    "isvideopresent": false,
+    "imageid": 0,
+    "countryname": "",
+    "belongsto": ""
+  },
+  "umpire1": {
+    "id": 11151,
+    "name": "Izatullah Safi",
+    "country": "AFG"
+  },
+  "umpire2": {
+    "id": 7514,
+    "name": "Masudur Rahman",
+    "country": "BAN"
+  },
+  "umpire3": {
+    "id": 8245,
+    "name": "Gazi Sohel",
+    "country": "BAN"
+  },
+  "referee": {
+    "id": 4190,
+    "name": "Richie Richardson",
+    "country": "WI"
+  },
+  "venueinfo": {
+    "id": 94,
+    "ground": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "timezone": "+04:00",
+    "established": 2004,
+    "capacity": "20,000",
+    "knownas": "",
+    "ends": "North End, Pavilion End",
+    "hometeam": "United Arab Emirates",
+    "floodlights": false,
+    "curator": "",
+    "profile": "",
+    "imageurl": "",
+    "groundlength": 0,
+    "groundwidth": 0,
+    "othersports": "",
+    "imageid": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "currbatteamid": 0,
+  "ismatchnotcovered": false,
+  "appindex": {
+    "seotitle": "Cricket match facts PAK vs SL Super Fours, 15th Match (A2 v B1),Asia Cup 2025 | Cricbuzz.com",
+    "weburl": "http://www.cricbuzz.com/cricket-match-facts/130140/pak-vs-sl-super-fours-15th-match-a2-v-b1-asia-cup-2025"
+  },
+  "istournament": true,
+  "tossstatus": "Pakistan opt to bowl",
+  "seriesstartdt": 1757289600000,
+  "seriesenddt": 1759104000000,
+  "istimeannounced": false,
+  "statetitle": "",
+  "replacematchid": 0,
+  "livestreamenabled": false,
+  "isfantasyenabled": false,
+  "broadcastinfo": [
+    {
+      "country": "IN",
+      "broadcaster": [
+        {
+          "broadcasttype": "Streaming",
+          "value": "SonyLIV,FanCode"
+        },
+        {
+          "broadcasttype": "TV",
+          "value": "Sony Sports Network"
+        }
+      ]
+    }
+  ],
+  "daynight": false,
+  "matchtype": "International",
+  "seriestype": "",
+  "shortstatus": "PAK won",
+  "boundarytrackervalues": {
+    "boundarytrackervalue": []
+  },
+  "matchimageid": 762007,
+  "islivestreamenabled": false,
+  "isfantasyhandbookenabled": false
+}
